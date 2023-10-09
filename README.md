@@ -132,5 +132,6 @@ flat-square -->
 ###
 
 <img src="https://github.com/EmePin/EmePin/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EmePin/EmePin/output/snake.svg" alt="Snake animation" />
 
 ###
