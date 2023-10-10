@@ -8,6 +8,7 @@
 <p align="center">Welcome to my github! </br> I'm Aimée from <img src="https://cdn-icons-png.flaticon.com/512/630/630615.png" width="13"/> currently living in <img src="https://cdn-icons-png.flaticon.com/512/630/630615.png" width="13"/> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emepin&label=Profile%20views&color=902fbd&style=flat-square" alt="emepin" /> </p>
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=EmePin.visitor-badge" alt="emepin" /> </p>
 
 
 <!-- 
@@ -19,7 +20,6 @@
 
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/aimepinedanivn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/eme_aim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimee-pineda/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@@emebrou) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.tv/eme_aim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@aimeepineda8400) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/22fnpkcydd7ignrvtbjlwh5di?si=0aaf6a524d774099) [![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=flat-square&logo=riot-games&logoColor=white)](https://www.riotgames.com/sherblocked) [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://www.kaggle.com/aimepinedanivn) [![Apple Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://www.kaggle.com/aimepinedanivn)
 ## 💻 Tech Stack:
-
 <h4>    > 🗣️ languages<h4>
 
 ![ensamblador](https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logo=Assembly&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -31,31 +31,21 @@
 <h4>    > 🎨 Design <h4>
 
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![SparkAR](https://img.shields.io/badge/Spark%20AR-FF5C83?style=flat-square&logo=SparkAR&logoColor=white)
-
 <h4>    > 🚀 I code with: Frameworks, Library, IDE & more...<h4>
 
 ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/Codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=Composer&logoColor=white) ![node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Materializer](https://img.shields.io/badge/material%20design-757575?style=flat-square&logo=material%20design&logoColor=white) ![xampp](https://img.shields.io/badge/Xampp-F37623?style=flat-square&logo=xampp&logoColor=white) ![flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white) ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![neatbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=flat-square&logo=apache%20netbeans%20IDE&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white) ![colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252) ![RSTUDIO](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white) ![vsc](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E) ![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=white) ![Github](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=GitHub%20Pages&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) ![Github Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=flat-square&logo=githubactions&logoColor=367cfe) ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![VisrtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=flat-square&logo=VirtualBox&logoColor=white)
-
-
 <h2> 📊 Stats<h2>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emepin&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+	
 [![](https://github-readme-stats.vercel.app/api?username=emepin&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)](https://github.com/emepin/github-readme-stats)
-<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=emepin&theme=dracula&hide_border=false)<br/>
-
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=emepin&theme=dracula&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emepin&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ##   🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=emepin&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?emepin={emepin}&theme=dracula)
 
-
 <a href="https://emepin.github.io/html/Yutu/codHolaMundo/blog" target="blank"> 💼 Check my works </a>
-
 
 ```python
 
@@ -90,26 +80,9 @@ flat-square
 flat
 flat-square -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=EmePin.EmePin) -->
 
 <!-- <a href="https://kaggle.com/aimepinedanivn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aimepinedanivn" height="30" width="40" /></a> -->
-
 
 
 <!-- <p align="left"> 
@@ -125,16 +98,10 @@ flat-square -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emepin&show_icons=true) -->
 
-
-
-
-###
-
 <!-- <img src="https://github.com/EmePin/EmePin/blob/output/snake.svg" alt="Snake animation" /> -->
 
 <img alt="Snake eating my contributions for breakfast🧉" src="https://raw.githubusercontent.com/EmePin/EmePin/preview/github-contribution-grid-snake.svg" />
 
-###
 <!-- spoty
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22fnpkcydd7ignrvtbjlwh5di)
 
