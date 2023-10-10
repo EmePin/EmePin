@@ -147,6 +147,7 @@ flat-square -->
 -->
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://media.giphy.com/media/V7nPgYz8zgjuzRWWLb/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"  />
 </div>
 
