@@ -147,7 +147,67 @@ flat-square -->
 -->
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/V7nPgYz8zgjuzRWWLb/giphy.gif"  />
+  <!-- <img height="200" src="https://media.giphy.com/media/V7nPgYz8zgjuzRWWLb/giphy.gif"  /> -->
   <img height="200" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"  />
 </div>
 
+https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white
+
+https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white
+
+https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white
+
+https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white
+
+
+https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+
+
+
+https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+
+
+https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+
+
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+
+
+
+https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+
+
+
+
+
+https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white
+
+
+
+https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white
+
+
+
+
+
+https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+
+
+
+
+
+https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white
+
+
+
+
+
+
+https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white
+	https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white
+	https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white
+
+
+https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe
