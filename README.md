@@ -131,11 +131,22 @@ flat-square -->
 
 ###
 
-<img src="https://github.com/EmePin/EmePin/blob/output/snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/EmePin/EmePin/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://github.com/EmePin/EmePin/blob/output/snake.svg" alt="Snake animation" /> -->
 
 <img alt="Snake eating my contributions for breakfast🧉" src="https://raw.githubusercontent.com/EmePin/EmePin/preview/github-contribution-grid-snake.svg" />
 
-<img alt="Snake eating my contributions for breakfast🧉" src="https://raw.githubusercontent.com/EmePin/EmePin/output/github-contribution-grid-snake.svg" />
-
 ###
+<!-- spoty
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22fnpkcydd7ignrvtbjlwh5di)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22fnpkcydd7ignrvtbjlwh5di&count={count})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22fnpkcydd7ignrvtbjlwh5di&unique={true|1|on|yes}) 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22fnpkcydd7ignrvtbjlwh5di&unique={true|1|on|yes})
+-->
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
