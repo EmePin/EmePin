@@ -138,5 +138,9 @@ Text         5 mins          ██░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
 
+<!--START_SECTION:waka2-->
+<!--END_SECTION:waka2-->
 
