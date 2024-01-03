@@ -138,8 +138,12 @@ Text         5 mins          ██░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+## 💻 wakatime:
+
 <!--START_SECTION:waka-simple-->
 <!--END_SECTION:waka-simple-->
+
+## 💻 wakatime:
 
 <!--START_SECTION:waka2-->
 <!--END_SECTION:waka2-->
