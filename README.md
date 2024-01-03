@@ -116,14 +116,18 @@ flat-square -->
 -->
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
 
 
 <div align="right">
   <!-- <img height="200" src="https://media.giphy.com/media/V7nPgYz8zgjuzRWWLb/giphy.gif"  /> -->
   <img height="200" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"  />
 </div>
+
+
+## 💻 wakatime:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
