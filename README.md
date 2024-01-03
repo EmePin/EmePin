@@ -49,7 +49,7 @@
 
 <a href="https://emepin.github.io/html/Yutu/codHolaMundo/blog" target="blank"> 💼 Check my works </a>
 
-```python
+<!--```python
 
 from dataclasses import dataclass
 from typing import Tuple
@@ -73,7 +73,7 @@ class Stack(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Java","Python", "Go", "C++", "assembly", "HTML5", "JavaScript", "R", "PHP")
     databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL", "MariaDB")
 
-```
+```-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )  and https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 
@@ -114,9 +114,10 @@ flat-square -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22fnpkcydd7ignrvtbjlwh5di&unique={true|1|on|yes})
 -->
-
-
-
+<div align="left">
+	<!--START_SECTION:aim-->
+	<!--END_SECTION:aim-->
+</div>
 
 <div align="right">
   <!-- <img height="200" src="https://media.giphy.com/media/V7nPgYz8zgjuzRWWLb/giphy.gif"  /> -->
@@ -198,23 +199,5 @@ TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  Last Updated on 03/01/2024 23:02:38 UTC
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:aim-->
 
-```txt
-From: 10 October 2023 - To: 03 January 2024
-
-Total Time: 61 hrs 35 mins
-
-JavaScript   35 hrs 40 mins  ██████████████▒░░░░░░░░░░   57.54 %
-Python       13 hrs 13 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
-JSON         3 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-Prolog       3 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-Perl         1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Text         56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Markdown     54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-YAML         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Other        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-```
-
-<!--END_SECTION:aim-->
 
