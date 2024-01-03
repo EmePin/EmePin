@@ -116,7 +116,24 @@ flat-square -->
 -->
 <div align="left">
 	<!--START_SECTION:aim-->
-	<!--END_SECTION:aim-->
+
+```txt
+From: 10 October 2023 - To: 03 January 2024
+
+Total Time: 61 hrs 35 mins
+
+JavaScript   35 hrs 40 mins  ██████████████▒░░░░░░░░░░   57.54 %
+Python       13 hrs 13 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
+JSON         3 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Prolog       3 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Perl         1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Text         56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Markdown     54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+YAML         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Other        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+```
+
+<!--END_SECTION:aim-->
 </div>
 
 <div align="right">
