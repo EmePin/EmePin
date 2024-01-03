@@ -1,7 +1,7 @@
 
 <h1><img src="https://slackmojis.com/emojis/10003-catjam/download" width="30"/> Hey! Nice to see you.</h1>
 
-<img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="880" height="107" />
+<img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="1017" height="107" />
 <!-- 480 x 107 px -->
 
 <br>
