@@ -114,6 +114,14 @@ flat-square -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22fnpkcydd7ignrvtbjlwh5di&unique={true|1|on|yes})
 -->
+
+
+<div align="center">
+  <!-- <img height="200" src="https://media.giphy.com/media/V7nPgYz8zgjuzRWWLb/giphy.gif"  /> -->
+  <img height="200" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"  />
+</div>
+
+
 <div align="left">
 	<!--START_SECTION:aim-->
 
@@ -136,10 +144,7 @@ Other        25 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:aim-->
 </div>
 
-<div align="right">
-  <!-- <img height="200" src="https://media.giphy.com/media/V7nPgYz8zgjuzRWWLb/giphy.gif"  /> -->
-  <img height="200" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"  />
-</div>
+
 
 
 ## 💻 wakatime:
