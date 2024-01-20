@@ -150,7 +150,7 @@ Other             59 mins         ▒░░░░░░░░░░░░░░�
 ## 💻 wakatime:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -215,7 +215,7 @@ TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2024 12:15:19 UTC
+ Last Updated on 20/01/2024 00:38:04 UTC
 <!--END_SECTION:waka-->
 
 
