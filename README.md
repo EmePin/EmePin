@@ -150,7 +150,7 @@ Other             1 hr 25 mins    ░░░░░░░░░░░░░░░�
 ## 💻 wakatime:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-746%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
@@ -216,7 +216,7 @@ Python                   2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 12:21:02 UTC
+ Last Updated on 24/06/2024 00:47:55 UTC
 <!--END_SECTION:waka-->
 
 
