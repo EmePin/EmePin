@@ -126,17 +126,17 @@ flat-square -->
 	<!--START_SECTION:aim-->
 
 ```txt
-From: 10 October 2023 - To: 30 June 2024
+From: 10 October 2023 - To: 01 July 2024
 
-Total Time: 779 hrs 52 mins
+Total Time: 786 hrs 34 mins
 
-JavaScript        686 hrs 41 mins ██████████████████████░░░   87.87 %
-JSON              39 hrs 33 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Python            18 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-TypeScript        8 hrs 40 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+JavaScript        693 hrs 24 mins ██████████████████████░░░   87.98 %
+JSON              39 hrs 34 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Python            18 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+TypeScript        8 hrs 40 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 Text              8 hrs 23 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 Markdown          8 hrs 23 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Prolog            3 hrs 29 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Prolog            3 hrs 29 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 Perl              1 hr 53 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 Other             1 hr 35 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
