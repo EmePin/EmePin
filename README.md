@@ -126,13 +126,13 @@ flat-square -->
 	<!--START_SECTION:aim-->
 
 ```txt
-From: 10 October 2023 - To: 04 August 2024
+From: 10 October 2023 - To: 05 August 2024
 
-Total Time: 956 hrs 35 mins
+Total Time: 957 hrs 43 mins
 
-JavaScript        849 hrs 15 mins ██████████████████████░░░   88.63 %
-JSON              49 hrs 34 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-Python            18 hrs 55 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+JavaScript        850 hrs 13 mins ██████████████████████░░░   88.63 %
+JSON              49 hrs 44 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Python            18 hrs 55 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 Markdown          11 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 Text              9 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 TypeScript        8 hrs 50 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
