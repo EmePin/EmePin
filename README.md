@@ -126,7 +126,7 @@ flat-square -->
 	<!--START_SECTION:aim-->
 
 ```txt
-From: 10 October 2023 - To: 25 August 2024
+From: 10 October 2023 - To: 26 August 2024
 
 Total Time: 999 hrs 59 mins
 
