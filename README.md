@@ -114,6 +114,7 @@ flat-square -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22fnpkcydd7ignrvtbjlwh5di&unique={true|1|on|yes})
 -->
+<img src="https://raw.githubusercontent.com/EmePin/EmePin/output/snake.svg" alt="Snake animation" />
 
 
 <div align="center">
