@@ -121,7 +121,7 @@ flat-square -->
   <!-- <img height="200" src="https://media.giphy.com/media/V7nPgYz8zgjuzRWWLb/giphy.gif"  /> -->
   <img height="200" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"  />
 </div>
-
+![snake gif](https://github.com/EmePin/EmePin/blob/output/github-snake-dark.svg)
 
 <div align="left">
 	<!--START_SECTION:aim-->
