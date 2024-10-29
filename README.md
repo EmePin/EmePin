@@ -101,9 +101,7 @@ flat-square -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emepin&show_icons=true) -->
 
 <!-- <img src="https://github.com/EmePin/EmePin/blob/output/snake.svg" alt="Snake animation" /> -->
-<div align="center">
-	<img alt="Snake eating my contributions for breakfast🧉" src="https://raw.githubusercontent.com/EmePin/EmePin/preview/github-contribution-grid-snake.svg" />
-</div>
+
 
 <!-- spoty
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22fnpkcydd7ignrvtbjlwh5di)
@@ -114,14 +112,20 @@ flat-square -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22fnpkcydd7ignrvtbjlwh5di&unique={true|1|on|yes})
 -->
-<img src="https://raw.githubusercontent.com/EmePin/EmePin/output/snake.svg" alt="Snake animation" />
+
+
+<div align="center">
+    <img src="https://github.com/EmePin/EmePin/blob/output/github-snake.svg" alt="snake gif"/>
+</div>
+
+
+
 
 
 <div align="center">
   <!-- <img height="200" src="https://media.giphy.com/media/V7nPgYz8zgjuzRWWLb/giphy.gif"  /> -->
   <img height="200" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"  />
 </div>
-![snake gif](https://github.com/EmePin/EmePin/blob/output/github-snake-dark.svg)
 
 <div align="left">
 	<!--START_SECTION:aim-->
