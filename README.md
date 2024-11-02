@@ -1,9 +1,9 @@
 
-<h1><img src="https://slackmojis.com/emojis/10003-catjam/download" width="30"/> Hey! Nice to see you.</h1>
 
-<img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="1017" height="107" />
+
+<img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="1017" height="207" />
 <!-- 480 x 107 px -->
-
+<h1><img src="https://slackmojis.com/emojis/10003-catjam/download" width="30"/> Hey! Nice to see you.</h1>
 <br>
 <p align="center">Welcome to my github! </br> I'm Aimée from <img src="https://cdn-icons-png.flaticon.com/512/630/630615.png" width="13"/> currently living in <img src="https://cdn-icons-png.flaticon.com/512/630/630615.png" width="13"/> 
 
