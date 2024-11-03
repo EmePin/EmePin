@@ -21,7 +21,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 
 
 
-
+<br>
 <div style="display: flex; justify-content: space-between;">
 
   <div style="flex: 1; padding: 10px;">
@@ -40,7 +40,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 </div>
 
 
-
+<br><br>
 
 ### Things I work with:
 
