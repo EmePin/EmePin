@@ -13,52 +13,54 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" />
+<div style="display: flex; justify-content: space-between;">
 
+  <div style="flex: 1; padding: 10px;">
+    <img align="right" alt="GIF" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" />
+  </div>
 
+  <div style="flex: 1; padding: 10px;">
+    <strong>Talking about Personal Stuffs:</strong><br>
+    - 👩🏻‍💻 Currently developing web and mobile applications.<br>
+    - 🤝 Seeking help with object detection in AI and implementing it in mobile apps.<br>
+    - 💬 Ask me anything, I’m always happy to help.<br><br>
+    <a href="https://www.linkedin.com/in/aimee-pineda/">
+      <img align="left" alt="Aimee's LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+    <a href="https://www.kaggle.com/aimepinedanivn">
+      <img align="left" alt="Aimee's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+    </a>
+    <a href="https://www.instagram.com/ai.meine/">
+      <img align="left" alt="Aimee's Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    </a>
+    <a href="https://tiktok.com/@emebrou">
+      <img align="left" alt="Aimee's TikTok" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
+    </a>
+    <a href="https://twitch.tv/eme_aim">
+      <img align="left" alt="Aimee's Twitch" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
+    </a>
+    <a href="https://youtube.com/@aimeepineda8400">
+      <img align="left" alt="Aimee's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+    </a>
+    <a href="https://open.spotify.com/user/22fnpkcydd7ignrvtbjlwh5di?si=0aaf6a524d774099">
+      <img align="left" alt="Aimee's Spotify" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+    </a>
+    <a href="https://www.riotgames.com/sherblocked">
+      <img align="left" alt="Aimee's Riot Games" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/riotgames.svg" />
+    </a>
+    <a href="https://play.google.com/store/apps/developer?id=Aim%C3%A9e+Pineda">
+      <img align="left" alt="Aimee's Play Store" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />
+    </a>
+    <a href="mailto:aimeepinedanivon@gmail.com">
+      <img align="left" alt="Aimee's Gmail" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    </a>
+    <br><br>
+    - 📝 See my <a href="https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing">Curriculum Vitae</a> to get more info.<br>
+    - ⚡ Fun fact: Did you know that the term "bug" in programming comes from an actual moth found in a computer in 1947? It was causing malfunctions, so they quite literally “debugged” it!
+  </div>
 
-**Talking about Personal Stuffs:**
+</div>
 
-- 👩🏻‍💻 Currently developing web and mobile applications.
-- 🤝 Seeking help with object detection in AI and implementing it in mobile apps.
-- 💬 Ask me anything, I’m always happy to help.
-  
-  <a href="https://www.linkedin.com/in/aimee-pineda/">
-  <img align="left" alt="Aimee's LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.kaggle.com/aimepinedanivn">
-  <img align="left" alt="Aimee's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
-</a>
-<a href="https://www.instagram.com/ai.meine/">
-  <img align="left" alt="Aimee's Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://tiktok.com/@emebrou">
-  <img align="left" alt="Aimee's TikTok" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
-</a>
-<a href="https://twitch.tv/eme_aim">
-  <img align="left" alt="Aimee's Twitch" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
-</a>
-<a href="https://youtube.com/@aimeepineda8400">
-  <img align="left" alt="Aimee's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://open.spotify.com/user/22fnpkcydd7ignrvtbjlwh5di?si=0aaf6a524d774099">
-  <img align="left" alt="Aimee's Spotify" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
-</a>
-<a href="https://www.riotgames.com/sherblocked">
-  <img align="left" alt="Aimee's Riot Games" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/riotgames.svg" />
-</a>
-<a href="https://play.google.com/store/apps/developer?id=Aim%C3%A9e+Pineda">
-  <img align="left" alt="Aimee's Play Store" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />
-</a>
-<a href="mailto:aimeepinedanivon@gmail.com">
-  <img align="left" alt="Aimee's Gmail" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<br>
-
-
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
-- ⚡ Fun fact: Did you know that the term "bug" in programming comes from an actual moth found in a computer in 1947? It was causing malfunctions, so they quite literally “debugged” it!
-<br>
 
 
 
