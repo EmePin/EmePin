@@ -29,13 +29,19 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
   </div>
 
   <div style="flex: 1; padding: 10px;">
-    <strong>Talking about Personal Stuffs:</strong><br>
-    - 👩🏻‍💻 Currently developing web and mobile applications.<br>
-    - 🤝 Seeking help with object detection in AI and implementing it in mobile apps.<br>
-    - 💬 Ask me anything, I’m always happy to help.
-    - 📝 See my <a href="https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing">Curriculum Vitae</a> to get more info.<br>
-    - ⚡ Fun fact: Did you know that the term "bug" in programming comes from an actual moth found in a computer in 1947? It was causing malfunctions, so they quite literally “debugged” it!
-  </div>
+	  
+
+  <strong>Talking about Personal Stuffs:</strong>
+
+  <ul>
+    <li>👩🏻‍💻 Currently developing web and mobile applications.</li>
+    <li>🤝 Seeking help with object detection in AI and implementing it in mobile apps.</li>
+    <li>💬 Ask me anything, I’m always happy to help.</li>
+    <li>📝 See my <a href="https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing">Curriculum Vitae</a> to get more info.</li>
+    <li>⚡ Fun fact: Did you know that the term "bug" in programming comes from an actual moth found in a computer in 1947? It was causing malfunctions, so they quite literally “debugged” it!</li>
+  </ul>
+</div>
+
 
 </div>
 
