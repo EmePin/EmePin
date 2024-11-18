@@ -103,8 +103,12 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
     <img src="https://github.com/EmePin/EmePin/blob/output/github-snake.svg" alt="snake gif"/>
 </div>
 
-### 📊 Stats
-<br>
+<details>
+  <summary>
+    <h4>📊 Stats</h4>
+
+  </summary>
+  <br>
 
 <div align="center">
 	
@@ -117,12 +121,28 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmePin&theme=dracula)](https://github.com/EmePin/github-readme-activity-graph)
 
 
+<!-- 
+<a href="https://codestats.net/users/WEGFan">
+  <img src='https://codestats-readme.wegfan.cn/history-graph/WEGFan?width=1000&height=300&timezone=08:00&history_days=30&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"]' alt="WEGFan's Code::Stats history graph" />
+</a>
+-->
 
 
 
 </div>
+</details>
 
-####   🏆 GitHub Trophies
+  
+
+
+
+<details>
+  <summary>
+
+<h4>🏆 GitHub Trophies</h4>
+
+  </summary>
+
 
 <br>
 <div align="center">
@@ -131,9 +151,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 
 </div>
 
-
-
-
+</details>
 
 
 
