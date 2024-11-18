@@ -52,7 +52,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 
 <div align="center">
 
-<h4>🗣️ languages</h4>
+<b>🗣️ languages</b>
 
 ![ensamblador](https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logo=Assembly&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
@@ -63,18 +63,18 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
-<h4>🛢 Database</h4>
+<b>🛢 Database</b>
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
-<h4>🎨 Design</h4>
+<b>🎨 Design</b>
 
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
 ![SparkAR](https://img.shields.io/badge/Spark%20AR-FF5C83?style=flat-square&logo=SparkAR&logoColor=white)
 
-<h4>🚀 I code with: Frameworks, Library, IDE & more...</h4>
+<b>🚀 I code with: Frameworks, Library, IDE & more...</b>
 
 ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) 
 ![node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
@@ -105,7 +105,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 
 <details>
   <summary>
-    <h4>📊 Stats</h4>
+    <b>📊 Stats</b>
 
   </summary>
   <br>
@@ -138,8 +138,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 
 <details>
   <summary>
-
-<h4>🏆 GitHub Trophies</h4>
+<b>🏆 GitHub Trophies</b>
 
   </summary>
 
@@ -177,8 +176,11 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 
 
 
-
-
+<details>
+  <summary>
+<b>💻 wakatime</b>
+  </summary>
+<br>
 
 
 <div align="left">
@@ -207,7 +209,7 @@ Other             2 hrs 9 mins    ░░░░░░░░░░░░░░░�
 
 
 
-## 💻 wakatime:
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C038%20hrs%2051%20mins-blue)
@@ -281,3 +283,4 @@ PLpgSQL                  1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
+</details>
