@@ -97,11 +97,13 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 ![Supabase](https://img.shields.io/badge/Supabase-%233DAF4B.svg?style=flat-square&logo=supabase&logoColor=white) 
 
 </div>
-<br>
 
+<br>
 <div align="center">
     <img src="https://github.com/EmePin/EmePin/blob/output/github-snake.svg" alt="snake gif"/>
 </div>
+<br>
+<br>
 
 <details>
   <summary>
@@ -135,7 +137,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
   
 
 
-
+<br>
 <details>
   <summary>
 <b>🏆 GitHub Trophies</b>
@@ -175,7 +177,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 
 
 
-
+<br>
 <details>
   <summary>
 <b>💻 wakatime</b>
@@ -298,3 +300,13 @@ PLpgSQL                  1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 </details>
+
+<br>
+
+<b>Recent Github Activity ⚡</b>
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+hola
+<!--END
