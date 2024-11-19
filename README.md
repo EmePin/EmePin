@@ -35,10 +35,10 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 
   <ul>
     <li>👩🏻‍💻 Currently developing web and mobile applications.</li>
-    <li>🤝 Seeking help with object detection in AI and implementing it in mobile apps.</li>
+    <li>🤝 Seeking help with AI object detection in mobile apps.</li>
     <li>💬 Ask me anything, I’m always happy to help.</li>
     <li>📝 See my <a href="https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing">Curriculum Vitae</a> to get more info.</li>
-    <li>⚡ Fun fact: Did you know that the term "bug" in programming comes from an actual moth found in a computer in 1947? It was causing malfunctions, so they quite literally “debugged” it!</li>
+    <li>⚡ Fun fact: "Bug" came from a moth in a 1947 computer!</li>
   </ul>
 </div>
 
