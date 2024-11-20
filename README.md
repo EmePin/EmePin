@@ -291,10 +291,21 @@ Windows                  1 hr 53 mins        ███████████�
 
 <b>Recent Github Activity ⚡</b>
 
-<div align="center">
+
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</div>
+
+
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
+
+
+
+
