@@ -296,3 +296,5 @@ Windows                  1 hr 53 mins        ███████████�
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+</div>
