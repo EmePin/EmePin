@@ -19,34 +19,23 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
     <a href="mailto:aimeepinedanivon@gmail.com"><img alt="Aimee's Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
 </p>
 
+<br>
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
+
+<strong>Talking about Personal Stuffs:</strong>
+  
+- 👩🏻‍💻 Currently developing web and mobile applications.  
+- 🤝 Seeking help with AI object detection in mobile apps.  
+- 💬 Ask me anything, I’m always happy to help.  
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.  
+- ⚡ Fun fact: "Bug" came from a moth in a 1947 computer!  
 
 
 <br>
-<div style="display: flex; justify-content: space-between;">
+<br>
 
-  <div style="flex: 1; padding: 10px;">
-    <img align="right" alt="GIF" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" />
-  </div>
-
-  <div style="flex: 1; padding: 10px;">
-	  
-
-  <strong>Talking about Personal Stuffs:</strong>
-
-  <ul>
-    <li>👩🏻‍💻 Currently developing web and mobile applications.</li>
-    <li>🤝 Seeking help with AI object detection in mobile apps.</li>
-    <li>💬 Ask me anything, I’m always happy to help.</li>
-    <li>📝 See my <a href="https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing">Curriculum Vitae</a> to get more info.</li>
-    <li>⚡ Fun fact: "Bug" came from a moth in a 1947 computer!</li>
-  </ul>
-</div>
-
-
-</div>
-
-
-<br><br>
 
 ### Things I work with:
 
