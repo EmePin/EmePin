@@ -294,5 +294,5 @@ Windows                  1 hr 53 mins        ███████████�
 <div align="center">
 
 <!--START_SECTION:activity-->
-hola
-<!--END
+
+<!--END_SECTION:activity-->
