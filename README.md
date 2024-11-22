@@ -296,15 +296,3 @@ PLpgSQL                  1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-
-# Recent Activity :zap:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
-
