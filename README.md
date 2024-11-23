@@ -286,13 +286,6 @@ PLpgSQL                  1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <br>
 
-<b>Recent Github Activity ⚡</b>
-
-
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 
 
