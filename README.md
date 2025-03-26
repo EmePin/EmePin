@@ -22,10 +22,10 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 <br>
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
+<img align="right" width=400px alt="Coding" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" />
 
-<strong>Talking about Personal Stuffs:</strong>
-  
+**Talking about Personal Stuffs:**
+
 - 👩🏻‍💻 Currently developing web and mobile applications.  
 - 🤝 Seeking help with AI object detection in mobile apps.  
 - 💬 Ask me anything, I’m always happy to help.  
