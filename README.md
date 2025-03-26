@@ -22,7 +22,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 <br>
 <br>
 
-<img align="right" width=400px alt="Coding" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" />
+<img align="right" width=300px alt="Coding" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
