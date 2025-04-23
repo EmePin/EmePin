@@ -206,15 +206,13 @@ Other             2 hrs 34 mins   ░░░░░░░░░░░░░░░�
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C096%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 530.5 kB Used in GitHub's Storage 
- > 
-> 🏆 44 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -278,7 +276,7 @@ Python                   4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2025 02:12:43 UTC
+ Last Updated on 23/04/2025 13:05:03 UTC
 <!--END_SECTION:waka-->
 
 
