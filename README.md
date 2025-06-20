@@ -216,6 +216,8 @@ Other             2 hrs 40 mins   ░░░░░░░░░░░░░░░�
 
 > 📦 545.6 kB Used in GitHub's Storage 
  > 
+> 🏆 99 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 61 Public Repositories 
@@ -278,7 +280,7 @@ TeX                      1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2025 02:19:07 UTC
+ Last Updated on 20/06/2025 13:06:43 UTC
 <!--END_SECTION:waka-->
 
 
