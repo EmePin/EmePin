@@ -206,7 +206,7 @@ Other             2 hrs 40 mins   ░░░░░░░░░░░░░░░�
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C157%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C158%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -214,9 +214,9 @@ Other             2 hrs 40 mins   ░░░░░░░░░░░░░░░�
 
 **🐱 My GitHub Data** 
 
-> 📦 546.1 kB Used in GitHub's Storage 
+> 📦 546.2 kB Used in GitHub's Storage 
  > 
-> 🏆 101 Contributions in the Year 2025
+> 🏆 102 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -228,15 +228,15 @@ Other             2 hrs 40 mins   ░░░░░░░░░░░░░░░�
 
 ```text
 🌞 Morning                115 commits         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.95 % 
-🌆 Daytime                1786 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.25 % 
-🌃 Evening                3813 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   64.57 % 
+🌆 Daytime                1786 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.24 % 
+🌃 Evening                3814 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   64.58 % 
 🌙 Night                  191 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.23 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   959 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.24 % 
-Tuesday                  1037 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.56 % 
+Tuesday                  1038 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.58 % 
 Wednesday                1012 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.14 % 
 Thursday                 865 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.65 % 
 Friday                   743 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.58 % 
@@ -251,16 +251,17 @@ Sunday                   656 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 16 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   77.96 % 
+JSON                     38 mins             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 55 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+project                  2 hrs 55 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 55 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -280,7 +281,7 @@ TeX                      1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2025 02:21:25 UTC
+ Last Updated on 25/06/2025 13:09:20 UTC
 <!--END_SECTION:waka-->
 
 
