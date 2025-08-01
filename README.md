@@ -178,7 +178,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 	<!--START_SECTION:aim-->
 
 ```txt
-From: 10 October 2023 - To: 30 July 2025
+From: 10 October 2023 - To: 31 July 2025
 
 Total Time: 1,186 hrs 44 mins
 
