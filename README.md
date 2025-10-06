@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-    <img src="https://profile-counter.glitch.me/{EmePin}/count.svg" alt="Visitor Count">
+    <img src="https://profile-counter.deno.dev/EmePin/count.svg" alt="EmePin — Visitas" />
 </div>
 <br>
 
