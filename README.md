@@ -29,7 +29,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 - 👩🏻‍💻 Currently developing web and mobile applications.  
 - 🤝 Seeking help with AI object detection in mobile apps.  
 - 💬 Ask me anything, I’m always happy to help.  
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1BVW05-e03AvEFB_c3MBZaVbgNhcJtH9A/view?usp=sharing) to get more info.  
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1bKwIXOHWH46sy8mVahruyJRs_9go3s5i/view?usp=sharing) to get more info.  
 - ⚡ Fun fact: "Bug" came from a moth in a 1947 computer!  
 
 
