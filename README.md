@@ -178,15 +178,15 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 	<!--START_SECTION:aim-->
 
 ```txt
-From: 10 October 2023 - To: 28 June 2026
+From: 10 October 2023 - To: 29 June 2026
 
-Total Time: 1,481 hrs 6 mins
+Total Time: 1,481 hrs 59 mins
 
-JavaScript        952 hrs 11 mins       ████████████████░░░░░░░░░   64.12 %
-TypeScript        187 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+JavaScript        952 hrs 11 mins       ████████████████░░░░░░░░░   64.08 %
+TypeScript        187 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
 JSON              88 hrs 50 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Python            84 hrs 9 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-TeX               55 hrs 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Python            84 hrs 9 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+TeX               55 hrs 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 HTML              22 hrs 41 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 Markdown          22 hrs 26 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 CSS               17 hrs 28 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
