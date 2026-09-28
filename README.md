@@ -13,10 +13,12 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/emepin/"><img alt="Aimee's LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/eme.pin/"><img alt="Aimee's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://youtube.com/@emepin"><img alt="Aimee's YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://play.google.com/store/apps/developer?id=Aim%C3%A9e+Pineda"><img alt="Aimee's Play Store" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:emepincontactgmail.com"><img alt="Aimee's Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
+	<a href="https://youtube.com/@emepin"><img alt="Aimee's YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.instagram.com/eme.pin/"><img alt="Aimee's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    
+    
 </p>
 
 <br>
