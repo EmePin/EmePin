@@ -164,7 +164,7 @@ Other             4 hrs 21 mins         ░░░░░░░░░░░░░�
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.52%20million%20lines%20of%20code-blue?style=flat)
 
@@ -231,9 +231,9 @@ Windows                  9 hrs 29 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 🤖 **AI Coding This Week**
 
 ```text
-⏱ AI Coding Time: 3 hrs 25 mins (36.07%)
+⏱ AI Coding Time: 3 hrs 25 mins (29.57%)
 
-✍️ 1,895 lines written by AI, 4,760 lines written by hand (28.47% AI-written)
+✍️ 1,895 lines written by AI, 5,600 lines written by hand (25.28% AI-written)
 
 🔤 544,994 Input Tokens, 55,482 Output Tokens
 
@@ -245,10 +245,10 @@ Github-Copilot           1,801 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 GPT                      659 lines           ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.79 %
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 28.47% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 25.28% of written lines came from AI
 📝 Concise Prompter — average 181 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 79.39% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 81.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript**
