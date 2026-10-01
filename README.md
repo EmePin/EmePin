@@ -178,22 +178,22 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 	<!--START_SECTION:aim-->
 
 ```txt
-From: 10 October 2023 - To: 29 September 2026
+From: 10 October 2023 - To: 30 September 2026
 
-Total Time: 1,543 hrs 24 mins
+Total Time: 1,546 hrs 53 mins
 
-JavaScript        987 hrs 25 mins       ████████████████░░░░░░░░░   63.80 %
-TypeScript        187 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
-Python            95 hrs 4 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-JSON              90 hrs 49 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-TeX               58 hrs 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-HTML              25 hrs 32 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Markdown          24 hrs 13 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-CSS               19 hrs 55 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Text              12 hrs 28 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Java              11 hrs 5 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+JavaScript        989 hrs 20 mins       ████████████████░░░░░░░░░   63.78 %
+TypeScript        187 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+Python            95 hrs 4 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+JSON              90 hrs 49 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+TeX               58 hrs 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+HTML              25 hrs 44 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Markdown          25 hrs 12 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+CSS               19 hrs 55 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Text              12 hrs 28 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Java              11 hrs 5 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 SQL               8 hrs 48 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Bash              4 hrs 53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Bash              5 hrs 14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Other             4 hrs 21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
