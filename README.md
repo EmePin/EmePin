@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-    <img src="https://profile-counter.deno.dev/EmePin/count.svg" alt="EmePin — Visitas" />
+    <img src="https://visor-roan.vercel.app/api/views/github-emepin.svg" alt="VISOR — GitHub Views" />
 </div>
 <br>
 
