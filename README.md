@@ -11,35 +11,16 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 
 <br>
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 16px; align-items: center;">
 
-<a href="https://www.linkedin.com/in/emepin/">
-  <img alt="Aimee's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/emepin/"><img alt="Aimee's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://play.google.com/store/apps/developer?id=Aim%C3%A9e+Pineda"><img alt="Aimee's Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:emepincontact@gmail.com"><img alt="Aimee's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://youtube.com/@emepin"><img alt="Aimee's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/eme.pin/"><img alt="Aimee's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.tiktok.com/@eme.pin/"><img alt="Aimee's TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg"/></a>
+</p>
 
-<a href="https://play.google.com/store/apps/developer?id=Aim%C3%A9e+Pineda">
-  <img alt="Aimee's Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg"/>
-</a>
-
-<a href="mailto:emepincontact@gmail.com">
-  <img alt="Aimee's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
-</a>
-
-<a href="https://youtube.com/@emepin">
-  <img alt="Aimee's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
-</a>
-
-<a href="https://www.instagram.com/eme.pin/">
-  <img alt="Aimee's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
-
-<a href="https://www.tiktok.com/@eme.pin/">
-  <img alt="Aimee's Tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg"/>
-</a>
-
-  </div>
-</div>
 
 <br>
 
