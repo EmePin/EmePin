@@ -32,6 +32,7 @@ jobs:
           SHOW_AI_CODING: true
           BADGE_STYLE: flat-square
           SECTION_NAME: waka-readme2
+          SHOW_LOC_CHART: true
           
 
           
