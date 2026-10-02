@@ -99,7 +99,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 
 <div align="left">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emepin&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emepin&theme=github&animation=stagger)
 
 [![](https://github-readme-stats.vercel.app/api?username=emepin&theme=default&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)](https://github.com/emepin/github-readme-stats)
 
@@ -107,7 +107,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emepin&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emepin&theme=github&utcOffset=0)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emepin&theme=github&animation=stagger&duration=0.2)
 </div>
 
 
