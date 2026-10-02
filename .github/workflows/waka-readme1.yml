@@ -18,7 +18,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: "Updated simple waka stats section with waka-readme1"
           SHOW_TITLE: true # optional
-          SECTION_NAME: aim # optional
+          SECTION_NAME: waka-readme1 # optional
           LANG_COUNT: 20 # optional
           STOP_AT_OTHER: true # optional
           TIME_RANGE: all_time # optional
