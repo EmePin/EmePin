@@ -31,6 +31,7 @@ jobs:
           SHOW_AI_CODE_TIME: true
           SHOW_AI_CODING: true
           BADGE_STYLE: flat-square
+          SECTION_NAME: waka-readme2
           
 
           
