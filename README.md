@@ -149,13 +149,13 @@ Other             4 hrs 21 mins         ░░░░░░░░░░░░░�
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2044%20mins-blue?style=flat-square)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue?style=flat-square)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue?style=flat-square)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.52%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
-> 📦 679.5 kB Used in GitHub's Storage 
+> 📦 679.6 kB Used in GitHub's Storage 
  > 
 > 🏆 197 Contributions in the Year 2026
  > 
@@ -192,33 +192,33 @@ Sunday                   971 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TeX                      2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-JavaScript               2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-Python                   1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Markdown                 1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Markdown                 4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+JavaScript               3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+TeX                      2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Python                   1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 28 mins       ████████████████████░░░░░   81.76 % 
-Codex Vscode             2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+VS Code                  12 hrs 51 mins      █████████████████████░░░░   85.88 % 
+Codex Vscode             2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 
 🐱‍💻 Projects: 
-visor                    3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   33.31 % 
-cv                       3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-documentOperations       2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-EmePin                   1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Latex                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+visor                    4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
+EmePin                   4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+cv                       3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+documentOperations       2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Latex                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  11 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 25 mins (29.57%)
+⏱ AI Coding Time: 3 hrs 25 mins (22.89%)
 
-✍️ 1,895 lines written by AI, 5,600 lines written by hand (25.28% AI-written)
+✍️ 1,895 lines written by AI, 5,716 lines written by hand (24.9% AI-written)
 
 🔤 544,994 Input Tokens, 55,482 Output Tokens
 
@@ -230,10 +230,10 @@ Github-Copilot           1,801 lines         ███████████�
 GPT                      659 lines           ███████░░░░░░░░░░░░░░░░░░   26.79 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.28% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 24.9% of written lines came from AI
 📝 Concise Prompter — average 181 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 81.1% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 81.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -253,7 +253,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 04:28:35 UTC
+ Last Updated on 02/10/2026 17:34:44 UTC
 <!--END_SECTION:waka-readme2-->
 
 </details>
