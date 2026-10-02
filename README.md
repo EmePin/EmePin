@@ -119,7 +119,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 <br>
 
 <div align="left">
-	<!--START_SECTION:aim-->
+<!--START_SECTION:waka-readme1-->
 
 ```txt
 From: 10 October 2023 - To: 01 October 2026
@@ -141,10 +141,10 @@ Bash              5 hrs 30 mins         ░░░░░░░░░░░░░�
 Other             4 hrs 21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
-<!--END_SECTION:aim-->
+<!--END_SECTION:waka-readme1-->
 </div>
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka-readme2-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C546%20hrs%2053%20mins-blue?style=flat)
 
@@ -253,7 +253,7 @@ Blade                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 Last Updated on 30/09/2026 18:00:29 UTC
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka-readme2-->
 
 </details>
 
