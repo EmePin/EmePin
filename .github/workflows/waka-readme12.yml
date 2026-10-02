@@ -1,5 +1,5 @@
 
-name: waka-readme2
+name: waka-readme1
 
 on:
   # for manual workflow trigger
@@ -16,7 +16,7 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: "Updated simple waka stats section with waka-readme2"
+          COMMIT_MESSAGE: "Updated simple waka stats section with waka-readme1"
           SHOW_TITLE: true # optional
           SECTION_NAME: aim # optional
           LANG_COUNT: 20 # optional
