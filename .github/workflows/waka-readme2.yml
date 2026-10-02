@@ -26,8 +26,11 @@ jobs:
           SHOW_EDITORS : true
           SHOW_LANGUAGE_PER_REPO: true
           SHOW_SHORT_INFO: true
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 1
           SHOW_TOTAL_CODE_TIME: True
+          SHOW_AI_CODE_TIME: true
+          SHOW_AI_CODING: true
+          BADGE_STYLE: flat-square
           
 
           
