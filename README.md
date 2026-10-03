@@ -149,13 +149,13 @@ Other             4 hrs 21 mins         ░░░░░░░░░░░░░�
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2044%20mins-blue?style=flat-square)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue?style=flat-square)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-188-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.52%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.53%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
-> 📦 679.7 kB Used in GitHub's Storage 
+> 📦 679.8 kB Used in GitHub's Storage 
  > 
 > 🏆 199 Contributions in the Year 2026
  > 
@@ -170,17 +170,17 @@ Other             4 hrs 21 mins         ░░░░░░░░░░░░░�
 ```text
 🌞 Morning                165 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 🌆 Daytime                2536 commits        ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-🌃 Evening                5650 commits        ████████████████░░░░░░░░░   65.48 % 
+🌃 Evening                5651 commits        ████████████████░░░░░░░░░   65.49 % 
 🌙 Night                  277 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   1339 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Tuesday                  1494 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Tuesday                  1494 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
 Wednesday                1473 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Thursday                 1337 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Friday                   1106 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Thursday                 1337 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Friday                   1107 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 Saturday                 908 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
 Sunday                   971 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 ```
@@ -192,48 +192,48 @@ Sunday                   971 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Markdown                 4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.78 % 
-JavaScript               3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-TeX                      2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Python                   1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Markdown                 4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+JavaScript               3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+CSS                      3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+TeX                      2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+TypeScript               2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 51 mins      █████████████████████░░░░   85.88 % 
-Codex Vscode             2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+VS Code                  17 hrs 54 mins      ██████████████████████░░░   86.93 % 
+Codex Vscode             2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 
 🐱‍💻 Projects: 
-visor                    4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
-EmePin                   4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-cv                       3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-documentOperations       2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Latex                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+portafolio               5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+visor                    4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+EmePin                   4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+cv                       3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+documentOperations       2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
 
 💻 Operating System: 
-Windows                  14 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 25 mins (22.89%)
+⏱ AI Coding Time: 4 hrs 12 mins (20.46%)
 
-✍️ 1,895 lines written by AI, 5,716 lines written by hand (24.9% AI-written)
+✍️ 1,907 lines written by AI, 5,934 lines written by hand (24.32% AI-written)
 
-🔤 544,994 Input Tokens, 55,482 Output Tokens
+🔤 709,835 Input Tokens, 73,960 Output Tokens
 
-💵 $27.47 Estimated AI Cost This Week
+💵 $27.51 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 62 AI Prompts
+🧠 14 AI Sessions, 81 AI Prompts
 
-Github-Copilot           1,801 lines         ██████████████████░░░░░░░   73.21 % 
-GPT                      659 lines           ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+Github-Copilot           1,801 lines         ██████████████████░░░░░░░   72.86 % 
+GPT                      671 lines           ███████░░░░░░░░░░░░░░░░░░   27.14 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 24.9% of written lines came from AI
-📝 Concise Prompter — average 181 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 81.72% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 24.32% of written lines came from AI
+📝 Concise Prompter — average 162 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 82.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -253,7 +253,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 03:58:21 UTC
+ Last Updated on 03/10/2026 15:49:44 UTC
 <!--END_SECTION:waka-readme2-->
 
 </details>
