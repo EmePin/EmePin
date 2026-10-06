@@ -7,8 +7,8 @@ const INSTAGRAM_API_URL =
 
 const WEATHER_API_URL =
     "https://api.open-meteo.com/v1/forecast" +
-    "?latitude=19.4326" +
-    "&longitude=-99.1332" +
+    "?latitude=19.437609" +
+    "&longitude=-99.10715" +
     "&current_weather=true" +
     "&daily=sunrise,sunset" +
     "&timezone=America/Mexico_City";
@@ -123,21 +123,6 @@ function getWeatherDescription(code) {
 
 
 // ─────────────────────────────────────────────
-// MEXICO TIME
-// ─────────────────────────────────────────────
-
-function getMexicoTime() {
-
-    return new Intl.DateTimeFormat("en-US", {
-        hour: "2-digit",
-        minute: "2-digit",
-        hour12: false,
-        timeZone: "America/Mexico_City"
-    }).format(new Date());
-}
-
-
-// ─────────────────────────────────────────────
 // LAST UPDATED
 // UTC +0 AND MEXICO UTC-6
 // ─────────────────────────────────────────────
@@ -172,6 +157,7 @@ function getLastUpdated() {
 // ─────────────────────────────────────────────
 
 function formatTime(dateTime) {
+
     return dateTime.slice(11, 16);
 }
 
@@ -273,6 +259,15 @@ function updateReadme(posts, weather) {
     // ─────────────────────────────────────────
 
     const content = `
+
+<p align="center">
+
+Above are the last 3 posts by
+<a href="https://www.instagram.com/visitmexico/">
+@VisitMexico!
+</a>
+
+</p>
 
 <p align="center">
 
