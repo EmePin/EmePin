@@ -262,23 +262,32 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 <p align="center">
 
+Above are the last 3 posts by
+<a href="https://www.instagram.com/visitmexico/">
+@VisitMexico!
+</a>
+
+</p>
+
+<p align="center">
+
 <a href="https://www.instagram.com/p/DeKqLKZPWgh/">
   <img
-    src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/835748601_18633227845045633_7183445591976339865_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=htmRPJ9ocS4Q7kNvwHUCUof&_nc_oc=AdoVT8BgMcQfJ9Y9SCmBBIOfnt4750whgdZJ26XwQG_Q8gjpPNVgFN2FYCO8YZN5S1A&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=j1bVoYVLlMPIg1tcHlj9CA&_nc_ss=78a8c&oh=00_AQMM7DbZQxVBu4yaQdYwY8s6dJrIVfT-xqCGMfqLBrOM0g&oe=6ACB469B"
+    src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/835748601_18633227845045633_7183445591976339865_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=htmRPJ9ocS4Q7kNvwF5_FKB&_nc_oc=Adq95qIZAMzZSVq8d7VW2JYdNCRqtdIqF_BjotCRk6WLI_OSIvhD9cBLYeBtPa6OVqg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=MofH0rcWdmj4yRzZPx04dg&_nc_ss=78a8c&oh=00_AQNl1qU3x3_nwPzFZimQH3mC5xti4s6av96YSCDEuljFUA&oe=6ACB469B"
     width="250"
     alt="@VisitMexico Instagram post"
   />
 </a>
 <a href="https://www.instagram.com/p/DeKKh96krf0/">
   <img
-    src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/820000042_18627444226042073_870145655840520476_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aHAa_m-NNX0Q7kNvwGyABSg&_nc_oc=AdquPXzaXxL9zWnIRdhtKGrhr7Eblu7vmZ8ileY8zGyVrq7bngFcjxe6lc1_ST89-jg&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=j1bVoYVLlMPIg1tcHlj9CA&_nc_ss=78a8c&oh=00_AQNQqz_DWoGEh397Y5qfxnuKHtMehPc8FfIoYMkYoguy4g&oe=6ACB62B5"
+    src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/820000042_18627444226042073_870145655840520476_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aHAa_m-NNX0Q7kNvwFy-t4d&_nc_oc=AdqNrB7FdIySu88m2_7ypbHAnZ6ZePQopnr7jnDTwRVHU313z9fNRVlY-4QAQpjrIQw&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=MofH0rcWdmj4yRzZPx04dg&_nc_ss=78a8c&oh=00_AQN3x7SHz75xh7AAD-nbhRcCHH1BM7JYfEQfbRwbHzVdnw&oe=6ACB62B5"
     width="250"
     alt="@VisitMexico Instagram post"
   />
 </a>
 <a href="https://www.instagram.com/p/DeInGV1gL2h/">
   <img
-    src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/837537324_18636112666005479_8462449001693160278_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=wFpA2b0JYDsQ7kNvwFrW7We&_nc_oc=AdoJElThm-Zt8kb7VYpH6W0Q4aStpdwIHRUfQrouKuLLUHHzn9BguD9oWKoHuBlt1YI&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=j1bVoYVLlMPIg1tcHlj9CA&_nc_ss=78a8c&oh=00_AQPtb6JC2J9_gDDeUNt3pSTCMefRW_f6uKzkkFQ__7ijDA&oe=6ACB43F1"
+    src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/837537324_18636112666005479_8462449001693160278_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=wFpA2b0JYDsQ7kNvwFL7nMR&_nc_oc=Adpap65CGF_3ZgpAabSeiCoLf44jGfqRiUkVHjSxHnGJ6-AaAO1kpMFtYTB1i5xjfWY&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=MofH0rcWdmj4yRzZPx04dg&_nc_ss=78a8c&oh=00_AQOZVhSfxBzMeQn5RCf5isdIk0QcF-CZ5y0Mq46YB9dcBQ&oe=6ACB43F1"
     width="250"
     alt="@VisitMexico Instagram post"
   />
@@ -290,15 +299,15 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 Currently, the weather is: **20°C, *slight rain showers***
 
-Today, the sun rises at **24:28** and sets at **12:20**.
+Today, the sun rises at **06:28** and sets at **18:20**.
 
 </p>
 
 <p align="center">
 
   <sub>
-    Last updated: October 6, 2026 at 22:24 (UTC+0) ·
-    October 6, 2026 at 16:24 (Mexico, UTC-6)
+    Last updated: October 6, 2026 at 22:35 (UTC+0) ·
+    October 6, 2026 at 16:35 (Mexico, UTC-6)
   </sub>
 
 </p>
