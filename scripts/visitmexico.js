@@ -123,17 +123,8 @@ function getWeatherDescription(code) {
 
 
 // ─────────────────────────────────────────────
-// MEXICO DATE / TIME
+// MEXICO TIME
 // ─────────────────────────────────────────────
-
-function getMexicoDate() {
-
-    return new Intl.DateTimeFormat("en-US", {
-        dateStyle: "long",
-        timeZone: "America/Mexico_City"
-    }).format(new Date());
-}
-
 
 function getMexicoTime() {
 
@@ -143,6 +134,36 @@ function getMexicoTime() {
         hour12: false,
         timeZone: "America/Mexico_City"
     }).format(new Date());
+}
+
+
+// ─────────────────────────────────────────────
+// LAST UPDATED
+// UTC +0 AND MEXICO UTC-6
+// ─────────────────────────────────────────────
+
+function getLastUpdated() {
+
+    const now = new Date();
+
+    const utc = new Intl.DateTimeFormat("en-US", {
+        dateStyle: "long",
+        timeStyle: "short",
+        hour12: false,
+        timeZone: "UTC"
+    }).format(now);
+
+    const mexico = new Intl.DateTimeFormat("en-US", {
+        dateStyle: "long",
+        timeStyle: "short",
+        hour12: false,
+        timeZone: "America/Mexico_City"
+    }).format(now);
+
+    return {
+        utc,
+        mexico
+    };
 }
 
 
@@ -219,6 +240,10 @@ function updateReadme(posts, weather) {
     }
 
 
+    // ─────────────────────────────────────────
+    // WEATHER DATA
+    // ─────────────────────────────────────────
+
     const currentWeather =
         weather.current_weather;
 
@@ -240,12 +265,18 @@ function updateReadme(posts, weather) {
             weather.daily.sunset[0]
         );
 
-    const currentTime =
-        getMexicoTime();
 
-    const currentDate =
-        getMexicoDate();
+    // ─────────────────────────────────────────
+    // LAST UPDATED
+    // ─────────────────────────────────────────
 
+    const lastUpdated =
+        getLastUpdated();
+
+
+    // ─────────────────────────────────────────
+    // README CONTENT
+    // ─────────────────────────────────────────
 
     const content = `
 
@@ -261,16 +292,23 @@ Currently, the weather is: **${temperature}°C, *${weatherDescription}***
 
 Today, the sun rises at **${sunrise}** and sets at **${sunset}**.
 
-Current time in Mexico: **${currentTime} (UTC-6)**
-
 </p>
 
 <p align="center">
-  <sub>Last updated: ${currentDate} · Timezone: UTC-6</sub>
+
+  <sub>
+    Last updated: ${lastUpdated.utc} (UTC+0) ·
+    ${lastUpdated.mexico} (Mexico, UTC-6)
+  </sub>
+
 </p>
 
 `;
 
+
+    // ─────────────────────────────────────────
+    // REPLACE BETWEEN MARKERS
+    // ─────────────────────────────────────────
 
     const newReadme =
         readme.slice(
