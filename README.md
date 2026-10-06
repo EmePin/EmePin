@@ -17,8 +17,8 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
     <a href="https://emepin.vercel.app/"><img alt="Aimee's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/briefcase-fill.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://play.google.com/store/apps/developer?id=Aim%C3%A9e+Pineda"><img alt="Aimee's Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:emepincontact@gmail.com"><img alt="Aimee's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://youtube.com/@emepin"><img alt="Aimee's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/eme.pin/"><img alt="Aimee's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://youtube.com/@emepin"><img alt="Aimee's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.tiktok.com/@eme.pin/"><img alt="Aimee's TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg"/></a>
 </p>
 
