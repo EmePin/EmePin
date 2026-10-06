@@ -1,19 +1,35 @@
 const fs = require("fs");
 
 const API_KEY = process.env.REEF_API_KEY;
-const USERNAME = "visitmexico";
 
-const API_URL = "https://api.reefapi.com/instagram/v1/posts";
+const INSTAGRAM_API_URL =
+    "https://api.reefapi.com/instagram/v1/posts";
+
+const WEATHER_API_URL =
+    "https://api.open-meteo.com/v1/forecast" +
+    "?latitude=19.4326" +
+    "&longitude=-99.1332" +
+    "&current_weather=true" +
+    "&daily=sunrise,sunset" +
+    "&timezone=America/Mexico_City";
+
+
+// ─────────────────────────────────────────────
+// INSTAGRAM
+// ─────────────────────────────────────────────
 
 async function getPosts() {
-    const response = await fetch(API_URL, {
+
+    const response = await fetch(INSTAGRAM_API_URL, {
         method: "POST",
+
         headers: {
             "x-api-key": API_KEY,
             "Content-Type": "application/json"
         },
+
         body: JSON.stringify({
-            username: USERNAME,
+            username: "visitmexico",
             limit: 3
         })
     });
@@ -26,185 +42,308 @@ async function getPosts() {
         );
     }
 
-    return result.data;
+    return result.data.posts;
 }
 
-function getPostsArray(data) {
-    if (Array.isArray(data)) {
-        return data;
-    }
 
-    if (Array.isArray(data.posts)) {
-        return data.posts;
-    }
+// ─────────────────────────────────────────────
+// WEATHER
+// ─────────────────────────────────────────────
 
-    if (Array.isArray(data.items)) {
-        return data.items;
-    }
+async function getWeather() {
 
-    return [];
-}
+    const response =
+        await fetch(WEATHER_API_URL);
 
-function getImage(post) {
-    if (post.display_url) {
-        return post.display_url;
-    }
+    const data =
+        await response.json();
 
-    if (post.image_url) {
-        return post.image_url;
-    }
-
-    if (post.thumbnail_url) {
-        return post.thumbnail_url;
-    }
-
-    if (
-        Array.isArray(post.carousel_media) &&
-        post.carousel_media.length > 0
-    ) {
-        return (
-            post.carousel_media[0].display_url ||
-            post.carousel_media[0].image_url
+    if (!response.ok) {
+        throw new Error(
+            `Open-Meteo error: ${JSON.stringify(data)}`
         );
     }
 
-    return null;
+    return data;
 }
 
-function getPostUrl(post) {
-    if (post.permalink) {
-        return post.permalink;
-    }
 
-    if (post.url) {
-        return post.url;
-    }
+// ─────────────────────────────────────────────
+// WEATHER DESCRIPTION
+// ─────────────────────────────────────────────
 
-    if (post.shortcode) {
-        return `https://www.instagram.com/p/${post.shortcode}/`;
-    }
+function getWeatherDescription(code) {
 
-    return "https://www.instagram.com/visitmexico/";
+    const descriptions = {
+
+        0: "clear sky",
+
+        1: "mainly clear",
+        2: "partly cloudy",
+        3: "overcast",
+
+        45: "fog",
+        48: "depositing rime fog",
+
+        51: "light drizzle",
+        53: "moderate drizzle",
+        55: "dense drizzle",
+
+        56: "light freezing drizzle",
+        57: "dense freezing drizzle",
+
+        61: "slight rain",
+        63: "moderate rain",
+        65: "heavy rain",
+
+        66: "light freezing rain",
+        67: "heavy freezing rain",
+
+        71: "slight snow",
+        73: "moderate snow",
+        75: "heavy snow",
+
+        77: "snow grains",
+
+        80: "slight rain showers",
+        81: "moderate rain showers",
+        82: "violent rain showers",
+
+        85: "slight snow showers",
+        86: "heavy snow showers",
+
+        95: "thunderstorm",
+
+        96: "thunderstorm with slight hail",
+        99: "thunderstorm with heavy hail"
+    };
+
+    return descriptions[code] || "unknown weather";
 }
+
+
+// ─────────────────────────────────────────────
+// MEXICO DATE / TIME
+// ─────────────────────────────────────────────
 
 function getMexicoDate() {
+
     return new Intl.DateTimeFormat("en-US", {
         dateStyle: "long",
         timeZone: "America/Mexico_City"
     }).format(new Date());
 }
 
-function generateContent(posts) {
-    const images = posts
-        .slice(0, 3)
-        .map((post) => {
-            const image = getImage(post);
-            const url = getPostUrl(post);
 
-            if (!image) {
-                return "";
-            }
+function getMexicoTime() {
+
+    return new Intl.DateTimeFormat("en-US", {
+        hour: "2-digit",
+        minute: "2-digit",
+        hour12: false,
+        timeZone: "America/Mexico_City"
+    }).format(new Date());
+}
+
+
+// ─────────────────────────────────────────────
+// FORMAT SUN TIME
+// ─────────────────────────────────────────────
+
+function formatTime(dateTime) {
+
+    return new Intl.DateTimeFormat("en-US", {
+        hour: "2-digit",
+        minute: "2-digit",
+        hour12: false,
+        timeZone: "America/Mexico_City"
+    }).format(new Date(dateTime));
+}
+
+
+// ─────────────────────────────────────────────
+// INSTAGRAM HTML
+// ─────────────────────────────────────────────
+
+function generatePosts(posts) {
+
+    return posts
+        .slice(0, 3)
+        .map(post => {
+
+            const url =
+                `https://www.instagram.com/p/${post.shortcode}/`;
 
             return `<a href="${url}">
   <img
-    src="${image}"
+    src="${post.display_url}"
     width="250"
     alt="@VisitMexico Instagram post"
   />
 </a>`;
         })
-        .filter(Boolean);
-
-    return `
-<p align="center">
-${images.join("\n")}
-</p>
-
-<p align="center">
-  <sub>Last updated: ${getMexicoDate()}</sub>
-</p>`;
+        .join("\n");
 }
 
-function updateReadme(content) {
-    const readmePath = "README.md";
 
-    const readme = fs.readFileSync(
-        readmePath,
-        "utf8"
-    );
+// ─────────────────────────────────────────────
+// UPDATE README
+// ─────────────────────────────────────────────
 
-    const startMarker =
+function updateReadme(posts, weather) {
+
+    const path = "README.md";
+
+    const readme =
+        fs.readFileSync(path, "utf8");
+
+    const start =
         "<!-- VISITMEXICO:START -->";
 
-    const endMarker =
+    const end =
         "<!-- VISITMEXICO:END -->";
 
     const startIndex =
-        readme.indexOf(startMarker);
+        readme.indexOf(start);
 
     const endIndex =
-        readme.indexOf(endMarker);
+        readme.indexOf(end);
 
-    if (startIndex === -1 || endIndex === -1) {
+    if (
+        startIndex === -1 ||
+        endIndex === -1
+    ) {
         throw new Error(
-            "VISITMEXICO markers not found in README.md"
+            "VISITMEXICO markers not found."
         );
     }
 
-    const before = readme.slice(
-        0,
-        startIndex + startMarker.length
-    );
 
-    const after = readme.slice(
-        endIndex
-    );
+    const currentWeather =
+        weather.current_weather;
+
+    const temperature =
+        Math.round(currentWeather.temperature);
+
+    const weatherDescription =
+        getWeatherDescription(
+            currentWeather.weathercode
+        );
+
+    const sunrise =
+        formatTime(
+            weather.daily.sunrise[0]
+        );
+
+    const sunset =
+        formatTime(
+            weather.daily.sunset[0]
+        );
+
+    const currentTime =
+        getMexicoTime();
+
+    const currentDate =
+        getMexicoDate();
+
+
+    const content = `
+
+<p align="center">
+
+${generatePosts(posts)}
+
+</p>
+
+<p align="center">
+
+Currently, the weather is: **${temperature}°C, *${weatherDescription}***
+
+Today, the sun rises at **${sunrise}** and sets at **${sunset}**.
+
+Current time in Mexico: **${currentTime} (UTC-6)**
+
+</p>
+
+<p align="center">
+  <sub>Last updated: ${currentDate} · Timezone: UTC-6</sub>
+</p>
+
+`;
+
 
     const newReadme =
-        `${before}\n${content}\n\n${after}`;
+        readme.slice(
+            0,
+            startIndex + start.length
+        ) +
+        content +
+        readme.slice(endIndex);
+
 
     fs.writeFileSync(
-        readmePath,
+        path,
         newReadme
     );
 }
 
+
+// ─────────────────────────────────────────────
+// MAIN
+// ─────────────────────────────────────────────
+
 async function main() {
+
     if (!API_KEY) {
+
         throw new Error(
-            "REEF_API_KEY is not configured."
+            "REEF_API_KEY is missing."
         );
     }
 
+
     console.log(
-        "Fetching @VisitMexico posts..."
+        "Getting latest @VisitMexico posts..."
     );
 
-    const data = await getPosts();
+    const posts =
+        await getPosts();
 
-    const posts = getPostsArray(data);
 
-    if (posts.length === 0) {
+    if (
+        !Array.isArray(posts) ||
+        posts.length === 0
+    ) {
+
         throw new Error(
-            "No posts were returned by ReefAPI."
+            "No Instagram posts found."
         );
     }
 
+
     console.log(
-        `Received ${posts.length} posts.`
+        "Getting Mexico weather..."
     );
 
-    const content =
-        generateContent(posts);
+    const weather =
+        await getWeather();
 
-    updateReadme(content);
+
+    updateReadme(
+        posts,
+        weather
+    );
+
 
     console.log(
         "README updated successfully."
     );
 }
 
-main().catch((error) => {
+
+main().catch(error => {
+
     console.error(error);
+
     process.exit(1);
 });
