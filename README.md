@@ -264,21 +264,21 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 <a href="https://www.instagram.com/p/DeKqLKZPWgh/">
   <img
-    src="https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/835748601_18633227845045633_7183445591976339865_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=htmRPJ9ocS4Q7kNvwH90ver&_nc_oc=Adq6Vswo_mHKWJX58p3A1l5iCDWRd-vCVcmMGCycjiqZuBKuESL4zYvqMv9XUtjiqV0&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=qIW1ATA5BmL6Bb8X2FywQw&_nc_ss=78a8c&oh=00_AQOe3D3PQfaWr22_KnhRQZCJYSCQvza5WvjJG-zYCgfAeA&oe=6ACB469B"
+    src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/835748601_18633227845045633_7183445591976339865_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=htmRPJ9ocS4Q7kNvwHUCUof&_nc_oc=AdoVT8BgMcQfJ9Y9SCmBBIOfnt4750whgdZJ26XwQG_Q8gjpPNVgFN2FYCO8YZN5S1A&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=j1bVoYVLlMPIg1tcHlj9CA&_nc_ss=78a8c&oh=00_AQMM7DbZQxVBu4yaQdYwY8s6dJrIVfT-xqCGMfqLBrOM0g&oe=6ACB469B"
     width="250"
     alt="@VisitMexico Instagram post"
   />
 </a>
 <a href="https://www.instagram.com/p/DeKKh96krf0/">
   <img
-    src="https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/820000042_18627444226042073_870145655840520476_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aHAa_m-NNX0Q7kNvwHWfGd6&_nc_oc=AdonrMjbBGvhX26tbAwDh-JYQBaMlpkdhSEsI-ePcRZZV5UANti3XQaytReycUuw_T4&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=qIW1ATA5BmL6Bb8X2FywQw&_nc_ss=78a8c&oh=00_AQMHfSe6iVad1sWttf_z4WyjUfjjXajx_Ldj8xK9napVvA&oe=6ACB2A75"
+    src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/820000042_18627444226042073_870145655840520476_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aHAa_m-NNX0Q7kNvwGyABSg&_nc_oc=AdquPXzaXxL9zWnIRdhtKGrhr7Eblu7vmZ8ileY8zGyVrq7bngFcjxe6lc1_ST89-jg&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=j1bVoYVLlMPIg1tcHlj9CA&_nc_ss=78a8c&oh=00_AQNQqz_DWoGEh397Y5qfxnuKHtMehPc8FfIoYMkYoguy4g&oe=6ACB62B5"
     width="250"
     alt="@VisitMexico Instagram post"
   />
 </a>
 <a href="https://www.instagram.com/p/DeInGV1gL2h/">
   <img
-    src="https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/837537324_18636112666005479_8462449001693160278_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=wFpA2b0JYDsQ7kNvwFsmPaD&_nc_oc=AdrS6UW4zLWF3ukDZlt984Rq2xyelTHpWcnf7yp5ehlxXumvv8H9rX4ljaBTSbE3beM&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=qIW1ATA5BmL6Bb8X2FywQw&_nc_ss=78a8c&oh=00_AQMw6BRpZdHpZSDoHwgSsxvsY6VYbz_J1Ze8nQtPAcgWWg&oe=6ACB43F1"
+    src="https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/837537324_18636112666005479_8462449001693160278_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=wFpA2b0JYDsQ7kNvwFrW7We&_nc_oc=AdoJElThm-Zt8kb7VYpH6W0Q4aStpdwIHRUfQrouKuLLUHHzn9BguD9oWKoHuBlt1YI&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=j1bVoYVLlMPIg1tcHlj9CA&_nc_ss=78a8c&oh=00_AQPtb6JC2J9_gDDeUNt3pSTCMefRW_f6uKzkkFQ__7ijDA&oe=6ACB43F1"
     width="250"
     alt="@VisitMexico Instagram post"
   />
@@ -288,16 +288,19 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 <p align="center">
 
-Currently, the weather is: **22°C, *light drizzle***
+Currently, the weather is: **20°C, *slight rain showers***
 
 Today, the sun rises at **24:28** and sets at **12:20**.
-
-Current time in Mexico: **15:49 (UTC-6)**
 
 </p>
 
 <p align="center">
-  <sub>Last updated: October 6, 2026 · Timezone: UTC-6</sub>
+
+  <sub>
+    Last updated: October 6, 2026 at 22:24 (UTC+0) ·
+    October 6, 2026 at 16:24 (Mexico, UTC-6)
+  </sub>
+
 </p>
 
 <!-- VISITMEXICO:END -->
