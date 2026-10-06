@@ -172,13 +172,7 @@ function getLastUpdated() {
 // ─────────────────────────────────────────────
 
 function formatTime(dateTime) {
-
-    return new Intl.DateTimeFormat("en-US", {
-        hour: "2-digit",
-        minute: "2-digit",
-        hour12: false,
-        timeZone: "America/Mexico_City"
-    }).format(new Date(dateTime));
+    return dateTime.slice(11, 16);
 }
 
 
