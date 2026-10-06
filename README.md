@@ -259,6 +259,33 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 <!-- VISITMEXICO:START -->
 
+<p align="center">
+<a href="https://www.instagram.com/p/DeKKh96krf0/">
+  <img
+    src="https://scontent-hou1-1.cdninstagram.com/v/t51.82787-15/820000042_18627444226042073_870145655840520476_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aHAa_m-NNX0Q7kNvwERNoMc&_nc_oc=AdpHTfZ0t2_Y0BRBY63sUrUSWfc4ijKRAI0X8njNxj-ePHTbhL3kKy9hXWwD8xD8oSU&_nc_zt=23&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_gid=wZSTyCT9_bqcgESvckdfzQ&_nc_ss=78289&oh=00_AQOMeCT9N5fi-8F9hAHeUDJGkKKXZnF2ahnI-OqmMHQxQQ&oe=6ACB2A75"
+    width="250"
+    alt="@VisitMexico Instagram post"
+  />
+</a>
+<a href="https://www.instagram.com/p/DeInGV1gL2h/">
+  <img
+    src="https://scontent-hou1-1.cdninstagram.com/v/t51.82787-15/837537324_18636112666005479_8462449001693160278_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=wFpA2b0JYDsQ7kNvwFL5THw&_nc_oc=AdoGUWPxTfLxZmyvvgF2rnILGefffFbDD2jgjy3ZOaN8XHJLDM9iQ9aGYXmuBpnERQc&_nc_zt=23&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_gid=wZSTyCT9_bqcgESvckdfzQ&_nc_ss=78289&oh=00_AQOup-Qg_gmBW5Ras9X1Pc5Bc5qgyfmsZ_Le1F6jppAWdA&oe=6ACB43F1"
+    width="250"
+    alt="@VisitMexico Instagram post"
+  />
+</a>
+<a href="https://www.instagram.com/p/DeIVwp9D26V/">
+  <img
+    src="https://scontent-hou1-1.cdninstagram.com/v/t51.82787-15/838659191_18632364682042073_6112326079117563326_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NhB0wXpKKBYQ7kNvwEhFc4U&_nc_oc=AdorqIXma-81T5t_lZx9wVR-1s_Fn-Z9TEj3Dk_wqrmIS353JqH6ErCiD38LkMuV8Po&_nc_zt=23&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_gid=wZSTyCT9_bqcgESvckdfzQ&_nc_ss=78289&oh=00_AQMhqmFLnBw0k665F_7utalkKEVYmuQIsxcGhzg-izZjbw&oe=6ACB454E"
+    width="250"
+    alt="@VisitMexico Instagram post"
+  />
+</a>
+</p>
+
+<p align="center">
+  <sub>Last updated: October 6, 2026</sub>
+</p>
 
 <!-- VISITMEXICO:END -->
 
