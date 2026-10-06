@@ -262,7 +262,7 @@ function updateReadme(posts, weather) {
 
 <p align="center">
 
-Above are the last 3 posts by
+Here are the last 3 posts by
 <a href="https://www.instagram.com/visitmexico/">
 @VisitMexico!
 </a>
@@ -279,7 +279,7 @@ ${generatePosts(posts)}
 
 Currently, the weather is: **${temperature}°C, *${weatherDescription}***
 
-Today, the sun rises at **${sunrise}** and sets at **${sunset}**.
+Today, the sun rises at **${sunrise}** and sets at **${sunset}** (UTC-6).
 
 </p>
 

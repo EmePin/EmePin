@@ -29,7 +29,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 
 **Talking about Personal Stuffs:**
 
-- ⏰ 🕐My TimeZone is: UTC - 6
+- ⏰ 🕐My TimeZone is: UTC-6
 - 👩🏻‍💻 Currently developing web and mobile applications.
 - 🤝 Seeking help with AI object detection in mobile apps.
 - 🌐 My favorite tool in cyberspace is "Wayback Machine".
