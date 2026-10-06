@@ -262,7 +262,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 <p align="center">
 
-Above are the last 3 posts by
+Here are the last 3 posts by
 <a href="https://www.instagram.com/visitmexico/">
 @VisitMexico!
 </a>
@@ -273,21 +273,21 @@ Above are the last 3 posts by
 
 <a href="https://www.instagram.com/p/DeKqLKZPWgh/">
   <img
-    src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/835748601_18633227845045633_7183445591976339865_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=htmRPJ9ocS4Q7kNvwF5_FKB&_nc_oc=Adq95qIZAMzZSVq8d7VW2JYdNCRqtdIqF_BjotCRk6WLI_OSIvhD9cBLYeBtPa6OVqg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=MofH0rcWdmj4yRzZPx04dg&_nc_ss=78a8c&oh=00_AQNl1qU3x3_nwPzFZimQH3mC5xti4s6av96YSCDEuljFUA&oe=6ACB469B"
+    src="https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/835748601_18633227845045633_7183445591976339865_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=htmRPJ9ocS4Q7kNvwFP6lPK&_nc_oc=AdpagWiweuVThgplhte9k0kF2hAzjm3LnzGspQmpTMnL77iPUVwJ8x6jS3rrdG20rlo&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=CtFQYmLje4vgBwtuBLx_YA&_nc_ss=78289&oh=00_AQNLFrjdD-sGQkDokTjHUPuKPQV64u6M9hpgZ1gVfiZInw&oe=6ACB469B"
     width="250"
     alt="@VisitMexico Instagram post"
   />
 </a>
 <a href="https://www.instagram.com/p/DeKKh96krf0/">
   <img
-    src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/820000042_18627444226042073_870145655840520476_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aHAa_m-NNX0Q7kNvwFy-t4d&_nc_oc=AdqNrB7FdIySu88m2_7ypbHAnZ6ZePQopnr7jnDTwRVHU313z9fNRVlY-4QAQpjrIQw&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=MofH0rcWdmj4yRzZPx04dg&_nc_ss=78a8c&oh=00_AQN3x7SHz75xh7AAD-nbhRcCHH1BM7JYfEQfbRwbHzVdnw&oe=6ACB62B5"
+    src="https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/820000042_18627444226042073_870145655840520476_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aHAa_m-NNX0Q7kNvwGzWZX9&_nc_oc=AdqIzkOGpe3BUa3f9L1iPyC0qxX7FFGHjHVJbLVgVYTku8gj5DD4YXCS2qekxJhpJJA&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=CtFQYmLje4vgBwtuBLx_YA&_nc_ss=78289&oh=00_AQN4gPWhqSqAt6pjktMGcSR4wpoMdzhPFE5O96gW1bhZDA&oe=6ACB62B5"
     width="250"
     alt="@VisitMexico Instagram post"
   />
 </a>
 <a href="https://www.instagram.com/p/DeInGV1gL2h/">
   <img
-    src="https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/837537324_18636112666005479_8462449001693160278_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=wFpA2b0JYDsQ7kNvwFL7nMR&_nc_oc=Adpap65CGF_3ZgpAabSeiCoLf44jGfqRiUkVHjSxHnGJ6-AaAO1kpMFtYTB1i5xjfWY&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=MofH0rcWdmj4yRzZPx04dg&_nc_ss=78a8c&oh=00_AQOZVhSfxBzMeQn5RCf5isdIk0QcF-CZ5y0Mq46YB9dcBQ&oe=6ACB43F1"
+    src="https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/837537324_18636112666005479_8462449001693160278_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=wFpA2b0JYDsQ7kNvwGt0Egd&_nc_oc=AdrwlTQ7N_8uVSu81GwS3B7DkVXU5Uv4qcaSYw-eakkA1EgVdQYhKUEtgxBWX1EsFbg&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=CtFQYmLje4vgBwtuBLx_YA&_nc_ss=78289&oh=00_AQOA_DuDLD0LvEX1VOvBBZThysHIWAyUnPWpqnzoLIYIAw&oe=6ACB43F1"
     width="250"
     alt="@VisitMexico Instagram post"
   />
@@ -297,17 +297,17 @@ Above are the last 3 posts by
 
 <p align="center">
 
-Currently, the weather is: **20°C, *slight rain showers***
+Currently, the weather is: **19°C, *slight rain showers***
 
-Today, the sun rises at **06:28** and sets at **18:20**.
+Today, the sun rises at **06:28** and sets at **18:20** (UTC-6).
 
 </p>
 
 <p align="center">
 
   <sub>
-    Last updated: October 6, 2026 at 22:35 (UTC+0) ·
-    October 6, 2026 at 16:35 (Mexico, UTC-6)
+    Last updated: October 6, 2026 at 22:55 (UTC+0) ·
+    October 6, 2026 at 16:55 (Mexico, UTC-6)
   </sub>
 
 </p>
