@@ -260,6 +260,90 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 <!-- VISITMEXICO:START -->
 
+<p align="center">
+
+Here are the last 3 posts by
+
+<a href="https://www.instagram.com/visitmexico/">
+
+@VisitMexico!
+
+</a>
+
+</p>
+
+<p align="center">
+
+<a
+  href="https://www.instagram.com/p/DeLC94LR-vT/"
+  style="text-decoration:none; background:transparent; border:0;"
+>
+  <img
+    src="https://scontent.cdninstagram.com/v/t51.82787-15/838620585_18641207386042127_7752925458097134358_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FXITVMmBtOkQ7kNvwGKcgaQ&_nc_oc=AdrAn-3ifrjBouRpH2yRM9E2U3PMTalwd39h-yBb6ZA6AFQhqqIfkvh7g5dr1UboILw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=QMCaprSf-eSxL2j2Pud5Wg&_nc_ss=78289&oh=00_AQOXCjO1qfYszKMqlkvsjSgABYrwShx7Ap3IwBHWTt1QpA&oe=6ACB9FC2"
+    width="250"
+    height="250"
+    alt="@VisitMexico Instagram post"
+    style="
+      display:inline-block;
+      width:250px;
+      height:250px;
+      object-fit:cover;
+      border-radius:12px;
+      border:0;
+      vertical-align:middle;
+    "
+  />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;<a
+  href="https://www.instagram.com/p/DeK6mIbo9Ye/"
+  style="text-decoration:none; background:transparent; border:0;"
+>
+  <img
+    src="https://scontent.cdninstagram.com/v/t51.82787-15/837858165_18632691088042073_5859268838103991193_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QN9ZApe0k0IQ7kNvwEyh-2j&_nc_oc=AdrLW7_v998AhPMMA0jm77ScqASZQI9FJwPazHq3gvOFL_QbmrPKU41JrQiMLNkWAMA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=QMCaprSf-eSxL2j2Pud5Wg&_nc_ss=78289&oh=00_AQM11HUwLFcEfWfrLtXk8iLpL0bp-NGtEVPPdJiWVfnQkg&oe=6ACBABBD"
+    width="250"
+    height="250"
+    alt="@VisitMexico Instagram post"
+    style="
+      display:inline-block;
+      width:250px;
+      height:250px;
+      object-fit:cover;
+      border-radius:12px;
+      border:0;
+      vertical-align:middle;
+    "
+  />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;<a
+  href="https://www.instagram.com/p/DeKz1SbM2Qx/"
+  style="text-decoration:none; background:transparent; border:0;"
+>
+  <img
+    src="https://scontent.cdninstagram.com/v/t51.82787-15/838659218_17948668596325717_7656564089949857839_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2_IDq8KsE_QQ7kNvwFeDTAB&_nc_oc=AdoPhjD9VOCFRyo8_hLVqYjAGeXGWjpwyf68ub2Ii6da6kOPX3ydGIHjYeoAzo8Yciw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=QMCaprSf-eSxL2j2Pud5Wg&_nc_ss=78289&oh=00_AQNOdxQpwAi1InOoPjnBA-w4OnI7l552itds67hkHBXgzQ&oe=6ACBAFDB"
+    width="250"
+    height="250"
+    alt="@VisitMexico Instagram post"
+    style="
+      display:inline-block;
+      width:250px;
+      height:250px;
+      object-fit:cover;
+      border-radius:12px;
+      border:0;
+      vertical-align:middle;
+    "
+  />
+</a>
+
+</p>
+
+<p align="center">
+
+<sub>
+Last updated: October 7, 2026 at 03:53 (UTC+0) ·
+October 6, 2026 at 21:53 (Mexico, UTC-6)
+</sub>
+
+</p>
+
 <!-- VISITMEXICO:END -->
 
 <!-- WEATHERMEXICO:START -->
