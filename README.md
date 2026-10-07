@@ -260,6 +260,50 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 <!-- VISITMEXICO:START -->
 
+<p align="center">
+
+Here are the last 3 posts by
+<a href="https://www.instagram.com/visitmexico/">
+@VisitMexico!
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.instagram.com/p/DeLQbYBjIro/">
+  <img
+    src="https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/839064943_18633305029045633_1264352439252580902_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QkySV8EznmgQ7kNvwEjK-mS&_nc_oc=Adof7Z83_z2F7Nld548iMbgh6QJFkEIPptPhM9mJgsv1hHhwT4DePaJWHuXBOa3oP6M&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_gid=eqJPGxSPIcZmnpU7FDOk6w&_nc_ss=78289&oh=00_AQNojlO1e9tCrMKt_qHMTCvQmKzUVvvF7o9v_TtlELOKHw&oe=6ACB932E"
+    width="250"
+    alt="@VisitMexico Instagram post"
+  />
+</a>
+<a href="https://www.instagram.com/p/DeLC94LR-vT/">
+  <img
+    src="https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/838620585_18641207386042127_7752925458097134358_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FXITVMmBtOkQ7kNvwF-YZJ0&_nc_oc=AdqyLx2zVdL4S2ILJ2JFCqR6AtowiJ8chOPAt7T0mHG_qlQWrZL6hSkZiXh2nqoiA6I&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=eqJPGxSPIcZmnpU7FDOk6w&_nc_ss=78289&oh=00_AQMyAdbIC5CjpytyM7khg5caf90fT96njSHaXZOF-z2nlQ&oe=6ACB9FC2"
+    width="250"
+    alt="@VisitMexico Instagram post"
+  />
+</a>
+<a href="https://www.instagram.com/p/DeK6mIbo9Ye/">
+  <img
+    src="https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/837858165_18632691088042073_5859268838103991193_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QN9ZApe0k0IQ7kNvwGVAVcF&_nc_oc=AdowVkgyVrfTXQkgHoQwWl-dGFgQB32_P67Ey2k6wBKHuceEa4Cwk0KuP0qshurtMQ4&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=eqJPGxSPIcZmnpU7FDOk6w&_nc_ss=78289&oh=00_AQPiRK-VJN1wMm46BiI6-gaau5ZGxlGFJNTrEJ-ABY71hA&oe=6ACBABBD"
+    width="250"
+    alt="@VisitMexico Instagram post"
+  />
+</a>
+
+</p>
+
+<p align="center">
+
+  <sub>
+    Last updated: October 7, 2026 at 04:15 (UTC+0) ·
+    October 6, 2026 at 22:15 (UTC-6)
+  </sub>
+
+</p>
+
 <!-- VISITMEXICO:END -->
 
 ### 🌤️ Mexico Weather
