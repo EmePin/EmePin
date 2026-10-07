@@ -256,13 +256,13 @@ Blade                    1 repo              ░░░░░░░░░░░�
  Last Updated on 06/10/2026 18:02:25 UTC
 <!--END_SECTION:waka-readme2-->
 
-### @VisitMexico — Latest 3 Instagram Posts in a week
+### 📷@VisitMexico — Latest 3 Instagram Posts in a week
 
 <!-- VISITMEXICO:START -->
 
 <!-- VISITMEXICO:END -->
 
-### Mexico Weather
+### 🌤️ Mexico Weather
 
 <!-- WEATHERMEXICO:START -->
 

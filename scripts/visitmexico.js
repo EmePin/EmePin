@@ -38,6 +38,28 @@ async function getPosts() {
 
 
 // ─────────────────────────────────────────────
+// LAST UPDATED
+// ─────────────────────────────────────────────
+
+function getLastUpdated() {
+
+    const now = new Date();
+
+    const format = (timeZone) => new Intl.DateTimeFormat("en-US", {
+        dateStyle: "long",
+        timeStyle: "short",
+        hour12: false,
+        timeZone
+    }).format(now);
+
+    return {
+        utc: format("UTC"),
+        utcMinusSix: format("Etc/GMT+6")
+    };
+}
+
+
+// ─────────────────────────────────────────────
 // INSTAGRAM HTML
 // ─────────────────────────────────────────────
 
@@ -94,6 +116,8 @@ function updateReadme(posts) {
         );
     }
 
+    const lastUpdated = getLastUpdated();
+
 
     // ─────────────────────────────────────────
     // README CONTENT
@@ -113,6 +137,15 @@ Here are the last 3 posts by
 <p align="center">
 
 ${generatePosts(posts)}
+
+</p>
+
+<p align="center">
+
+  <sub>
+    Last updated: ${lastUpdated.utc} (UTC+0) ·
+    ${lastUpdated.utcMinusSix} (UTC-6)
+  </sub>
 
 </p>
 
