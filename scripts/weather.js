@@ -138,10 +138,10 @@ function updateWeather(weather) {
 
 
     const start =
-        "<!-- WEATHER:START -->";
+        "<!-- WEATHERMEXICO:START -->";
 
     const end =
-        "<!-- WEATHER:END -->";
+        "<!-- WEATHERMEXICO:END -->";
 
 
     const startIndex =
@@ -157,7 +157,7 @@ function updateWeather(weather) {
     ) {
 
         throw new Error(
-            "WEATHER markers not found."
+            "WEATHERMEXICO markers not found."
         );
     }
 
