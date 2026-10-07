@@ -5,14 +5,6 @@ const API_KEY = process.env.REEF_API_KEY;
 const INSTAGRAM_API_URL =
     "https://api.reefapi.com/instagram/v1/posts";
 
-const WEATHER_API_URL =
-    "https://api.open-meteo.com/v1/forecast" +
-    "?latitude=19.437609" +
-    "&longitude=-99.10715" +
-    "&current_weather=true" +
-    "&daily=sunrise,sunset" +
-    "&timezone=America/Mexico_City";
-
 
 // ─────────────────────────────────────────────
 // INSTAGRAM
@@ -21,6 +13,7 @@ const WEATHER_API_URL =
 async function getPosts() {
 
     const response = await fetch(INSTAGRAM_API_URL, {
+
         method: "POST",
 
         headers: {
@@ -37,6 +30,7 @@ async function getPosts() {
     const result = await response.json();
 
     if (!response.ok || !result.ok) {
+
         throw new Error(
             `ReefAPI error: ${JSON.stringify(result)}`
         );
@@ -47,84 +41,7 @@ async function getPosts() {
 
 
 // ─────────────────────────────────────────────
-// WEATHER
-// ─────────────────────────────────────────────
-
-async function getWeather() {
-
-    const response =
-        await fetch(WEATHER_API_URL);
-
-    const data =
-        await response.json();
-
-    if (!response.ok) {
-        throw new Error(
-            `Open-Meteo error: ${JSON.stringify(data)}`
-        );
-    }
-
-    return data;
-}
-
-
-// ─────────────────────────────────────────────
-// WEATHER DESCRIPTION
-// ─────────────────────────────────────────────
-
-function getWeatherDescription(code) {
-
-    const descriptions = {
-
-        0: "clear sky",
-
-        1: "mainly clear",
-        2: "partly cloudy",
-        3: "overcast",
-
-        45: "fog",
-        48: "depositing rime fog",
-
-        51: "light drizzle",
-        53: "moderate drizzle",
-        55: "dense drizzle",
-
-        56: "light freezing drizzle",
-        57: "dense freezing drizzle",
-
-        61: "slight rain",
-        63: "moderate rain",
-        65: "heavy rain",
-
-        66: "light freezing rain",
-        67: "heavy freezing rain",
-
-        71: "slight snow",
-        73: "moderate snow",
-        75: "heavy snow",
-
-        77: "snow grains",
-
-        80: "slight rain showers",
-        81: "moderate rain showers",
-        82: "violent rain showers",
-
-        85: "slight snow showers",
-        86: "heavy snow showers",
-
-        95: "thunderstorm",
-
-        96: "thunderstorm with slight hail",
-        99: "thunderstorm with heavy hail"
-    };
-
-    return descriptions[code] || "unknown weather";
-}
-
-
-// ─────────────────────────────────────────────
 // LAST UPDATED
-// UTC +0 AND MEXICO UTC-6
 // ─────────────────────────────────────────────
 
 function getLastUpdated() {
@@ -153,16 +70,6 @@ function getLastUpdated() {
 
 
 // ─────────────────────────────────────────────
-// FORMAT SUN TIME
-// ─────────────────────────────────────────────
-
-function formatTime(dateTime) {
-
-    return dateTime.slice(11, 16);
-}
-
-
-// ─────────────────────────────────────────────
 // INSTAGRAM HTML
 // ─────────────────────────────────────────────
 
@@ -170,20 +77,38 @@ function generatePosts(posts) {
 
     return posts
         .slice(0, 3)
-        .map(post => {
+        .map((post, index) => {
 
             const url =
                 `https://www.instagram.com/p/${post.shortcode}/`;
 
-            return `<a href="${url}">
+            const separator =
+                index < 2
+                    ? "&nbsp;&nbsp;&nbsp;&nbsp;"
+                    : "";
+
+            return `<a
+  href="${url}"
+  style="text-decoration:none; background:transparent; border:0;"
+>
   <img
     src="${post.display_url}"
     width="250"
+    height="250"
     alt="@VisitMexico Instagram post"
+    style="
+      display:inline-block;
+      width:250px;
+      height:250px;
+      object-fit:cover;
+      border-radius:12px;
+      border:0;
+      vertical-align:middle;
+    "
   />
-</a>`;
+</a>${separator}`;
         })
-        .join("\n");
+        .join("");
 }
 
 
@@ -191,7 +116,7 @@ function generatePosts(posts) {
 // UPDATE README
 // ─────────────────────────────────────────────
 
-function updateReadme(posts, weather) {
+function updateReadme(posts) {
 
     const path = "README.md";
 
@@ -214,57 +139,27 @@ function updateReadme(posts, weather) {
         startIndex === -1 ||
         endIndex === -1
     ) {
+
         throw new Error(
             "VISITMEXICO markers not found."
         );
     }
 
 
-    // ─────────────────────────────────────────
-    // WEATHER DATA
-    // ─────────────────────────────────────────
-
-    const currentWeather =
-        weather.current_weather;
-
-    const temperature =
-        Math.round(currentWeather.temperature);
-
-    const weatherDescription =
-        getWeatherDescription(
-            currentWeather.weathercode
-        );
-
-    const sunrise =
-        formatTime(
-            weather.daily.sunrise[0]
-        );
-
-    const sunset =
-        formatTime(
-            weather.daily.sunset[0]
-        );
-
-
-    // ─────────────────────────────────────────
-    // LAST UPDATED
-    // ─────────────────────────────────────────
-
     const lastUpdated =
         getLastUpdated();
 
-
-    // ─────────────────────────────────────────
-    // README CONTENT
-    // ─────────────────────────────────────────
 
     const content = `
 
 <p align="center">
 
 Here are the last 3 posts by
+
 <a href="https://www.instagram.com/visitmexico/">
+
 @VisitMexico!
+
 </a>
 
 </p>
@@ -277,27 +172,15 @@ ${generatePosts(posts)}
 
 <p align="center">
 
-Currently, the weather is: **${temperature}°C, *${weatherDescription}***
-
-Today, the sun rises at **${sunrise}** and sets at **${sunset}** (UTC-6).
-
-</p>
-
-<p align="center">
-
-  <sub>
-    Last updated: ${lastUpdated.utc} (UTC+0) ·
-    ${lastUpdated.mexico} (Mexico, UTC-6)
-  </sub>
+<sub>
+Last updated: ${lastUpdated.utc} (UTC+0) ·
+${lastUpdated.mexico} (Mexico, UTC-6)
+</sub>
 
 </p>
 
 `;
 
-
-    // ─────────────────────────────────────────
-    // REPLACE BETWEEN MARKERS
-    // ─────────────────────────────────────────
 
     const newReadme =
         readme.slice(
@@ -333,6 +216,7 @@ async function main() {
         "Getting latest @VisitMexico posts..."
     );
 
+
     const posts =
         await getPosts();
 
@@ -348,22 +232,11 @@ async function main() {
     }
 
 
-    console.log(
-        "Getting Mexico weather..."
-    );
-
-    const weather =
-        await getWeather();
-
-
-    updateReadme(
-        posts,
-        weather
-    );
+    updateReadme(posts);
 
 
     console.log(
-        "README updated successfully."
+        "Visit Mexico posts updated successfully."
     );
 }
 
