@@ -306,13 +306,13 @@ Here are the last 3 posts by
 
 <!-- VISITMEXICO:END -->
 
-### 🌤️ Mexico Weather
+### 🌤️ Mexico City Weather
 
 <!-- WEATHERMEXICO:START -->
 
 <p align="center">
 
-Currently, the weather is: **15°C, *light drizzle***
+Currently, the weather in Mexico City is: **15°C, *light drizzle***
 
 Today, the sun rises at **06:28** and sets at **18:20** (UTC-6).
 

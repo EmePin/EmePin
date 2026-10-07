@@ -92,7 +92,7 @@ function updateReadme(weather) {
 
 <p align="center">
 
-Currently, the weather is: **${temperature}°C, *${description}***
+Currently, the weather in Mexico City is: **${temperature}°C, *${description}***
 
 Today, the sun rises at **${sunrise}** and sets at **${sunset}** (UTC-6).
 
