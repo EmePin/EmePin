@@ -194,32 +194,31 @@ Sunday                   861 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.99 % 
-CSS                      6 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.94 % 
-Markdown                 3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-JavaScript               2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+TypeScript               6 hrs 40 mins       ███████████░░░░░░░░░░░░░░   42.53 % 
+CSS                      6 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.82 % 
+JavaScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 20 mins      █████████████████░░░░░░░░   69.96 % 
-Codex Vscode             5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+VS Code                  9 hrs 57 mins       ████████████████░░░░░░░░░   63.48 % 
+Codex Vscode             5 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.84 % 
+Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🐱‍💻 Projects: 
-portafolio               13 hrs              █████████████████░░░░░░░░   68.28 % 
-EmePin                   5 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-visor                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+portafolio               13 hrs              █████████████████████░░░░   83.00 % 
+EmePin                   2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 20 mins (33.3%)
+⏱ AI Coding Time: 6 hrs 20 mins (40.48%)
 
-✍️ 700 lines written by AI, 1,035 lines written by hand (40.35% AI-written)
+✍️ 700 lines written by AI, 919 lines written by hand (43.24% AI-written)
 
 🔤 1,283,817 Input Tokens, 275,194 Output Tokens
 
@@ -231,10 +230,10 @@ GPT                      1,229 lines         ███████████�
 Github-Copilot           345 lines           █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 40.35% of written lines came from AI
+⚖️ Balanced with AI — 43.24% of written lines came from AI
 📝 Concise Prompter — average 288 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 66.29% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 62.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -254,7 +253,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 04:45:56 UTC
+ Last Updated on 09/10/2026 18:03:31 UTC
 <!--END_SECTION:waka-readme2-->
 
 ### 📷@VisitMexico — Latest 3 Instagram Posts in a week
