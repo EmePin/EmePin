@@ -151,7 +151,7 @@ Other             4 hrs 21 mins         ░░░░░░░░░░░░░�
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%205%20mins-blue?style=flat-square)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-286-blue?style=flat-square)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-285-blue?style=flat-square)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.53%20million%20lines%20of%20code-blue?style=flat-square)
 
@@ -194,46 +194,46 @@ Sunday                   861 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               6 hrs 40 mins       ███████████░░░░░░░░░░░░░░   42.53 % 
-CSS                      6 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.82 % 
-JavaScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TypeScript               4 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.31 % 
+CSS                      2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+JavaScript               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 57 mins       ████████████████░░░░░░░░░   63.48 % 
-Codex Vscode             5 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.84 % 
-Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Codex Vscode             5 hrs 2 mins        █████████████░░░░░░░░░░░░   50.22 % 
+VS Code                  4 hrs 53 mins       ████████████░░░░░░░░░░░░░   48.72 % 
+Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🐱‍💻 Projects: 
-portafolio               13 hrs              █████████████████████░░░░   83.00 % 
-EmePin                   2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+portafolio               7 hrs 22 mins       ██████████████████░░░░░░░   73.44 % 
+EmePin                   2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.56 % 
 
 💻 Operating System: 
-Windows                  15 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 20 mins (40.48%)
+⏱ AI Coding Time: 5 hrs 33 mins (55.37%)
 
-✍️ 700 lines written by AI, 919 lines written by hand (43.24% AI-written)
+✍️ 688 lines written by AI, 701 lines written by hand (49.53% AI-written)
 
-🔤 1,283,817 Input Tokens, 275,194 Output Tokens
+🔤 1,118,976 Input Tokens, 256,716 Output Tokens
 
-💵 $26.86 Estimated AI Cost This Week
+💵 $26.82 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 109 AI Prompts
+🧠 12 AI Sessions, 90 AI Prompts
 
-GPT                      1,229 lines         ████████████████████░░░░░   78.08 % 
-Github-Copilot           345 lines           █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+GPT                      1,217 lines         ███████████████████░░░░░░   77.91 % 
+Github-Copilot           345 lines           ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 43.24% of written lines came from AI
-📝 Concise Prompter — average 288 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 62.05% of changed lines were hand-edited
+⚖️ Balanced with AI — 49.53% of written lines came from AI
+📝 Concise Prompter — average 327 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 55.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -253,7 +253,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 04:32:06 UTC
+ Last Updated on 10/10/2026 17:03:13 UTC
 <!--END_SECTION:waka-readme2-->
 
 ### 📷@VisitMexico — Latest 3 Instagram Posts in a week
