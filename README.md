@@ -95,6 +95,8 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 <br>
 <br>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 📊 Stats
 <br>
@@ -256,7 +258,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
  Last Updated on 10/10/2026 17:03:13 UTC
 <!--END_SECTION:waka-readme2-->
 
-### 📷@VisitMexico — Latest 3 Instagram Posts in a week
+### 📷 @VisitMexico — Latest 3 Instagram Posts in a week
 
 <!-- VISITMEXICO:START -->
 
