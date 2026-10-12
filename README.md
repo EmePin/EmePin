@@ -276,23 +276,23 @@ Here are the last 3 posts by
 
 <p align="center">
 
-<a href="https://www.instagram.com/p/DeLQbYBjIro/">
+<a href="https://www.instagram.com/p/DeZnQ4HEs3d/">
   <img
-    src="https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/839064943_18633305029045633_1264352439252580902_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QkySV8EznmgQ7kNvwEjK-mS&_nc_oc=Adof7Z83_z2F7Nld548iMbgh6QJFkEIPptPhM9mJgsv1hHhwT4DePaJWHuXBOa3oP6M&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_gid=eqJPGxSPIcZmnpU7FDOk6w&_nc_ss=78289&oh=00_AQNojlO1e9tCrMKt_qHMTCvQmKzUVvvF7o9v_TtlELOKHw&oe=6ACB932E"
+    src="https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/818062611_18627446164042073_1545051915955361619_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ZRVd5GBvF5kQ7kNvwFEIS-B&_nc_oc=AdoXfFEWRFJ14mFsMH-nDucpOcff_ZLYGyRvO23s1TVHYvjjhtdmC1IbzU0HWFcEHME&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=C_YlN4wBQWqXJVYFFGCmRw&_nc_ss=78a8c&oh=00_AQPz4jAHBq1Mj9_RDGua58JEvpfPWSs7Gsm2-s4mpTStRQ&oe=6AD32E6D"
     width="250"
     alt="@VisitMexico Instagram post"
   />
 </a>
-<a href="https://www.instagram.com/p/DeLC94LR-vT/">
+<a href="https://www.instagram.com/p/DeZuGXaD-5h/">
   <img
-    src="https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/838620585_18641207386042127_7752925458097134358_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FXITVMmBtOkQ7kNvwF-YZJ0&_nc_oc=AdqyLx2zVdL4S2ILJ2JFCqR6AtowiJ8chOPAt7T0mHG_qlQWrZL6hSkZiXh2nqoiA6I&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=eqJPGxSPIcZmnpU7FDOk6w&_nc_ss=78289&oh=00_AQMyAdbIC5CjpytyM7khg5caf90fT96njSHaXZOF-z2nlQ&oe=6ACB9FC2"
+    src="https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/843494905_18633671794042073_3302957941787742392_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=xPtmSjXHbGoQ7kNvwHLGehJ&_nc_oc=AdoazAkDxR8__4UZXtSLt4GrjI-Oi6ErOCssC3VEzrnJQqJ9QB2P62G9ppCfdXR0AMI&_nc_zt=23&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=C_YlN4wBQWqXJVYFFGCmRw&_nc_ss=78a8c&oh=00_AQP86E6W0xKX8_2OWEfcn3QFP4rEVX9Odtj0yISlXPVbrQ&oe=6AD34080"
     width="250"
     alt="@VisitMexico Instagram post"
   />
 </a>
-<a href="https://www.instagram.com/p/DeK6mIbo9Ye/">
+<a href="https://www.instagram.com/p/DeXygQpD2LY/">
   <img
-    src="https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/837858165_18632691088042073_5859268838103991193_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QN9ZApe0k0IQ7kNvwGVAVcF&_nc_oc=AdowVkgyVrfTXQkgHoQwWl-dGFgQB32_P67Ey2k6wBKHuceEa4Cwk0KuP0qshurtMQ4&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=eqJPGxSPIcZmnpU7FDOk6w&_nc_ss=78289&oh=00_AQPiRK-VJN1wMm46BiI6-gaau5ZGxlGFJNTrEJ-ABY71hA&oe=6ACBABBD"
+    src="https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/844437759_18633659950042073_8036430421379741128_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ap9-Pc34x4EQ7kNvwEbt2ZT&_nc_oc=Adq4a-Uq91yM_5yjglsL_j3mRu625bm5gFVu7XpWcJmG6wkiYzcT9zdPWmRfK8-zuVI&_nc_zt=23&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=C_YlN4wBQWqXJVYFFGCmRw&_nc_ss=78a8c&oh=00_AQMNT4R0sPl5HNOvfcwZ6jMT7-8IxMDnxqK0HMr8RkzQng&oe=6AD32243"
     width="250"
     alt="@VisitMexico Instagram post"
   />
@@ -303,8 +303,8 @@ Here are the last 3 posts by
 <p align="center">
 
   <sub>
-    Last updated: October 7, 2026 at 04:15 (UTC+0) ·
-    October 6, 2026 at 22:15 (UTC-6)
+    Last updated: October 12, 2026 at 22:43 (UTC+0) ·
+    October 12, 2026 at 16:43 (UTC-6)
   </sub>
 
 </p>
