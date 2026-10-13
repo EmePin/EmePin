@@ -263,53 +263,9 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 ### 📷 @VisitMexico — Latest 3 Instagram Posts in a week
 
-<!-- VISITMEXICO:START -->
+<!-- VISITMEXICOO:START -->
 
-<p align="center">
-
-Here are the last 3 posts by
-<a href="https://www.instagram.com/visitmexico/">
-@VisitMexico!
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://www.instagram.com/p/DeZnQ4HEs3d/">
-  <img
-    src="https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/818062611_18627446164042073_1545051915955361619_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ZRVd5GBvF5kQ7kNvwFEIS-B&_nc_oc=AdoXfFEWRFJ14mFsMH-nDucpOcff_ZLYGyRvO23s1TVHYvjjhtdmC1IbzU0HWFcEHME&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=C_YlN4wBQWqXJVYFFGCmRw&_nc_ss=78a8c&oh=00_AQPz4jAHBq1Mj9_RDGua58JEvpfPWSs7Gsm2-s4mpTStRQ&oe=6AD32E6D"
-    width="250"
-    alt="@VisitMexico Instagram post"
-  />
-</a>
-<a href="https://www.instagram.com/p/DeZuGXaD-5h/">
-  <img
-    src="https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/843494905_18633671794042073_3302957941787742392_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=xPtmSjXHbGoQ7kNvwHLGehJ&_nc_oc=AdoazAkDxR8__4UZXtSLt4GrjI-Oi6ErOCssC3VEzrnJQqJ9QB2P62G9ppCfdXR0AMI&_nc_zt=23&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=C_YlN4wBQWqXJVYFFGCmRw&_nc_ss=78a8c&oh=00_AQP86E6W0xKX8_2OWEfcn3QFP4rEVX9Odtj0yISlXPVbrQ&oe=6AD34080"
-    width="250"
-    alt="@VisitMexico Instagram post"
-  />
-</a>
-<a href="https://www.instagram.com/p/DeXygQpD2LY/">
-  <img
-    src="https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/844437759_18633659950042073_8036430421379741128_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ap9-Pc34x4EQ7kNvwEbt2ZT&_nc_oc=Adq4a-Uq91yM_5yjglsL_j3mRu625bm5gFVu7XpWcJmG6wkiYzcT9zdPWmRfK8-zuVI&_nc_zt=23&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=C_YlN4wBQWqXJVYFFGCmRw&_nc_ss=78a8c&oh=00_AQMNT4R0sPl5HNOvfcwZ6jMT7-8IxMDnxqK0HMr8RkzQng&oe=6AD32243"
-    width="250"
-    alt="@VisitMexico Instagram post"
-  />
-</a>
-
-</p>
-
-<p align="center">
-
-  <sub>
-    Last updated: October 12, 2026 at 22:43 (UTC+0) ·
-    October 12, 2026 at 16:43 (UTC-6)
-  </sub>
-
-</p>
-
-<!-- VISITMEXICO:END -->
+<!-- VISITMEXICOO:END -->
 
 ### 🌤️ Mexico City Weather
 
