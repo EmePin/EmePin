@@ -153,7 +153,7 @@ Other             4 hrs 21 mins         ░░░░░░░░░░░░░�
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2031%20mins-blue?style=flat-square)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-266-blue?style=flat-square)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-249-blue?style=flat-square)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.53%20million%20lines%20of%20code-blue?style=flat-square)
 
@@ -196,49 +196,48 @@ Sunday                   867 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               7 hrs 8 mins        ██████████████░░░░░░░░░░░   55.60 % 
-CSS                      1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-JavaScript               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+TypeScript               7 hrs 27 mins       ████████████████████░░░░░   79.47 % 
+JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TeX                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 30 mins       ███████████████░░░░░░░░░░   58.46 % 
-Codex Vscode             5 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
-Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Codex Vscode             5 hrs 15 mins       ██████████████░░░░░░░░░░░   56.03 % 
+VS Code                  4 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.97 % 
 
 🐱‍💻 Projects: 
-Momentum                 4 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   38.79 % 
-portafolio               4 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   37.11 % 
-EmePin                   2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-cv                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-aimeelinks               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Momentum                 8 hrs 39 mins       ███████████████████████░░   92.30 % 
+cv                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+aimeelinks               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+documentOperations       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+EmePin                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Windows                  12 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 49 mins (45.31%)
+⏱ AI Coding Time: 5 hrs 32 mins (59.11%)
 
-✍️ 2,337 lines written by AI, 881 lines written by hand (72.62% AI-written)
+✍️ 3,001 lines written by AI, 201 lines written by hand (93.72% AI-written)
 
-🔤 1,806,515 Input Tokens, 367,527 Output Tokens
+🔤 2,906,074 Input Tokens, 617,018 Output Tokens
 
-💵 $27.06 Estimated AI Cost This Week
+💵 $27.60 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 89 AI Prompts
+🧠 13 AI Sessions, 59 AI Prompts
 
-GPT                      3,059 lines         ██████████████████████░░░   89.86 % 
-Github-Copilot           345 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+GPT                      4,190 lines         ███████████████████████░░   92.39 % 
+Github-Copilot           345 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.62% of written lines came from AI
-📝 Concise Prompter — average 405 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 40.4% of changed lines were hand-edited
+🤖 AI-Driven — 93.72% of written lines came from AI
+📄 Detailed Prompter — average 520 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 17.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -258,7 +257,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 03:43:33 UTC
+ Last Updated on 14/10/2026 16:41:09 UTC
 <!--END_SECTION:waka-readme2-->
 
 ### 📷 @VisitMexico — Latest 3 Instagram Posts in a week
