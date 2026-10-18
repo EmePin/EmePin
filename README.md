@@ -159,34 +159,34 @@ Other             4 hrs 21 mins         ░░░░░░░░░░░░░�
 
 **🐱 My GitHub Data** 
 
-> 📦 618.1 kB Used in GitHub's Storage 
+> 📦 619.4 kB Used in GitHub's Storage 
  > 
-> 🏆 260 Contributions in the Year 2026
+> 🏆 274 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 63 Public Repositories 
+> 📜 62 Public Repositories 
  > 
-> 🔑 71 Private Repositories 
+> 🔑 72 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                119 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-🌆 Daytime                2559 commits        ████████░░░░░░░░░░░░░░░░░   32.23 % 
-🌃 Evening                4972 commits        ████████████████░░░░░░░░░   62.63 % 
-🌙 Night                  289 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+🌞 Morning                119 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+🌆 Daytime                2562 commits        ████████░░░░░░░░░░░░░░░░░   32.14 % 
+🌃 Evening                4997 commits        ████████████████░░░░░░░░░   62.69 % 
+🌙 Night                  293 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1240 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Tuesday                  1410 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Wednesday                1358 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Thursday                 1242 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Friday                   1016 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Saturday                 806 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Sunday                   867 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Monday                   1240 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Tuesday                  1410 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Wednesday                1358 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Thursday                 1242 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Friday                   1019 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Saturday                 831 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Sunday                   871 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 ```
 
 
@@ -196,48 +196,48 @@ Sunday                   867 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               18 hrs 10 mins      ██████████████████░░░░░░░   72.14 % 
-CSS                      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Markdown                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Groovy                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+TypeScript               20 hrs 46 mins      ██████████████████░░░░░░░   71.08 % 
+CSS                      3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Markdown                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Groovy                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-Codex Vscode             13 hrs 36 mins      ██████████████░░░░░░░░░░░   54.00 % 
-VS Code                  11 hrs 35 mins      ████████████░░░░░░░░░░░░░   46.00 % 
+Codex Vscode             16 hrs 4 mins       ██████████████░░░░░░░░░░░   55.01 % 
+VS Code                  13 hrs 8 mins       ███████████░░░░░░░░░░░░░░   44.99 % 
 
 🐱‍💻 Projects: 
-Momentum                 15 hrs 33 mins      ███████████████░░░░░░░░░░   61.76 % 
-landingMexSTEMWeek26     8 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   34.06 % 
-portafolio               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-cv                       18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-aimeelinks               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Momentum                 15 hrs 33 mins      █████████████░░░░░░░░░░░░   53.25 % 
+landingMexSTEMWeek26     11 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   40.08 % 
+portafolio               1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+cv                       18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+aimeelinks               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Windows                  25 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 55 mins (63.2%)
+⏱ AI Coding Time: 19 hrs 10 mins (65.63%)
 
-✍️ 5,405 lines written by AI, 404 lines written by hand (93.05% AI-written)
+✍️ 6,175 lines written by AI, 422 lines written by hand (93.6% AI-written)
 
-🔤 5,121,934 Input Tokens, 1,185,920 Output Tokens
+🔤 5,869,157 Input Tokens, 1,360,875 Output Tokens
 
-💵 $28.87 Estimated AI Cost This Week
+💵 $29.35 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 258 AI Prompts
+🧠 28 AI Sessions, 367 AI Prompts
 
-GPT                      7,468 lines         ████████████████████████░   95.58 % 
-Github-Copilot           345 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+GPT                      8,485 lines         ████████████████████████░   96.09 % 
+Github-Copilot           345 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.05% of written lines came from AI
-📝 Concise Prompter — average 493 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 13.06% of changed lines were hand-edited
+🤖 AI-Driven — 93.6% of written lines came from AI
+📝 Concise Prompter — average 435 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 11.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -257,7 +257,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 03:13:03 UTC
+ Last Updated on 18/10/2026 15:29:13 UTC
 <!--END_SECTION:waka-readme2-->
 
 ### 📷 @VisitMexico — Latest 3 Instagram Posts in a week
