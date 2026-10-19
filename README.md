@@ -34,7 +34,7 @@ Hi there 👋, welcome to my Github!, I'm **Aimée**, a **Computer Systems Engin
 - 🤝 Seeking help with AI object detection in mobile apps.
 - 🌐 My favorite tool in cyberspace is "Wayback Machine".
 - 💬 Ask me anything, I’m always happy to help.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1TPXkYCr3jbI8ku4c82KeDY19ZXEQWw-9/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1ftxflZNS0IecXMjgi3uK0LkchkxqKWlI/view?usp=sharing) to get more info.
 - ⚡ Fun fact: "Bug" came from a moth in a 1947 computer!
 
 ### Things I work with:
