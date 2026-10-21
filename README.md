@@ -153,7 +153,7 @@ Other             4 hrs 21 mins         ░░░░░░░░░░░░░�
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2050%20mins-blue?style=flat-square)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-115-blue?style=flat-square)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue?style=flat-square)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.54%20million%20lines%20of%20code-blue?style=flat-square)
 
@@ -196,48 +196,48 @@ Sunday                   900 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               18 hrs 5 mins       ███████████████░░░░░░░░░░   61.22 % 
-CSS                      5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Markdown                 2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-HTML                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-XML                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+TypeScript               14 hrs 53 mins      ██████████████░░░░░░░░░░░   57.55 % 
+CSS                      5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+HTML                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+XML                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-Codex Vscode             16 hrs 42 mins      ██████████████░░░░░░░░░░░   56.50 % 
-VS Code                  12 hrs 51 mins      ███████████░░░░░░░░░░░░░░   43.50 % 
+Codex Vscode             13 hrs 38 mins      █████████████░░░░░░░░░░░░   52.70 % 
+VS Code                  12 hrs 14 mins      ████████████░░░░░░░░░░░░░   47.30 % 
 
 🐱‍💻 Projects: 
-landingMexSTEMWeek26     17 hrs 1 min        ██████████████░░░░░░░░░░░   57.62 % 
-Momentum                 10 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   35.80 % 
-portafolio               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-EmePin                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-cv                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+landingMexSTEMWeek26     17 hrs 1 min        ████████████████░░░░░░░░░   65.81 % 
+Momentum                 6 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+portafolio               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+EmePin                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+cv                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Windows                  29 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 19 mins (72.13%)
+⏱ AI Coding Time: 18 hrs 12 mins (70.38%)
 
-✍️ 4,447 lines written by AI, 378 lines written by hand (92.17% AI-written)
+✍️ 3,409 lines written by AI, 374 lines written by hand (90.11% AI-written)
 
-🔤 5,435,195 Input Tokens, 1,281,017 Output Tokens
+🔤 3,725,114 Input Tokens, 891,321 Output Tokens
 
-💵 $29.33 Estimated AI Cost This Week
+💵 $28.47 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 453 AI Prompts
+🧠 22 AI Sessions, 424 AI Prompts
 
-GPT                      6,661 lines         ████████████████████████░   95.08 % 
-Github-Copilot           345 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+GPT                      4,829 lines         ███████████████████████░░   93.33 % 
+Github-Copilot           345 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.17% of written lines came from AI
-📝 Concise Prompter — average 371 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 7.03% of changed lines were hand-edited
+🤖 AI-Driven — 90.11% of written lines came from AI
+📝 Concise Prompter — average 357 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 9.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -257,7 +257,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 03:29:13 UTC
+ Last Updated on 21/10/2026 16:44:21 UTC
 <!--END_SECTION:waka-readme2-->
 
 <!-- ### 📷 @VisitMexico — Latest 3 Instagram Posts in a week -->
