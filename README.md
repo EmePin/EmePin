@@ -271,7 +271,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 <p align="center">
 
-Currently, the weather in Mexico City is: **17°C, *overcast***
+Currently, the weather in Mexico City is: **16°C, *mainly clear***
 
 Today, the sun rises at **06:32** and sets at **18:08** (UTC-6).
 
@@ -280,8 +280,8 @@ Today, the sun rises at **06:32** and sets at **18:08** (UTC-6).
 <p align="center">
 
   <sub>
-    Last updated: October 21, 2026 at 16:12 (UTC+0) ·
-    October 21, 2026 at 10:12 (UTC-6)
+    Last updated: October 22, 2026 at 02:08 (UTC+0) ·
+    October 21, 2026 at 20:08 (UTC-6)
   </sub>
 
 </p>
