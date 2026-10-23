@@ -158,7 +158,7 @@ Other             4 hrs 21 mins         ░░░░░░░░░░░░░�
 
 **🐱 My GitHub Data** 
 
-> 📦 623.4 kB Used in GitHub's Storage 
+> 📦 623.5 kB Used in GitHub's Storage 
  > 
 > 🏆 338 Contributions in the Year 2026
  > 
@@ -195,49 +195,49 @@ Sunday                   901 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               11 hrs 39 mins      ████████████░░░░░░░░░░░░░   47.63 % 
-CSS                      5 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-Markdown                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-JavaScript               1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-HTML                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+TypeScript               10 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.90 % 
+CSS                      6 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+JavaScript               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+HTML                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 1 min        ████████████░░░░░░░░░░░░░   49.13 % 
-Codex Vscode             11 hrs 11 mins      ███████████░░░░░░░░░░░░░░   45.73 % 
-Copilot CLI              1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Codex Vscode             10 hrs 51 mins      ████████████░░░░░░░░░░░░░   49.10 % 
+VS Code                  9 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.20 % 
+Copilot CLI              1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🐱‍💻 Projects: 
-landingMexSTEMWeek26     17 hrs 5 mins       █████████████████░░░░░░░░   69.80 % 
-Momentum                 2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-portafolio               2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-aimeelinks               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-EmePin                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+landingMexSTEMWeek26     16 hrs 12 mins      ██████████████████░░░░░░░   73.37 % 
+portafolio               2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+aimeelinks               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+EmePin                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+cv                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Windows                  24 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 46 mins (72.59%)
+⏱ AI Coding Time: 17 hrs 56 mins (81.14%)
 
-✍️ 2,708 lines written by AI, 300 lines written by hand (90.03% AI-written)
+✍️ 2,649 lines written by AI, 259 lines written by hand (91.09% AI-written)
 
-🔤 2,563,480 Input Tokens, 714,281 Output Tokens
+🔤 2,592,212 Input Tokens, 685,926 Output Tokens
 
-💵 $28.10 Estimated AI Cost This Week
+💵 $28.05 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 460 AI Prompts
+🧠 24 AI Sessions, 473 AI Prompts
 
-GPT                      3,481 lines         ███████████████████████░░   90.98 % 
-Github-Copilot           345 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+GPT                      3,539 lines         ███████████████████████░░   91.12 % 
+Github-Copilot           345 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.03% of written lines came from AI
-📝 Concise Prompter — average 317 characters per prompt
-🔁 Iterative Prompter — average 24 prompts per session
-🚀 High AI Trust — 9.6% of changed lines were hand-edited
+🤖 AI-Driven — 91.09% of written lines came from AI
+📝 Concise Prompter — average 287 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 8.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -257,7 +257,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 03:34:11 UTC
+ Last Updated on 23/10/2026 16:35:28 UTC
 <!--END_SECTION:waka-readme2-->
 
 <!-- ### 📷 @VisitMexico — Latest 3 Instagram Posts in a week -->
