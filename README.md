@@ -195,49 +195,49 @@ Sunday                   901 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               10 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.90 % 
-CSS                      6 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-JavaScript               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-HTML                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               6 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.52 % 
+CSS                      4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+JavaScript               1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+HTML                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-Codex Vscode             10 hrs 51 mins      ████████████░░░░░░░░░░░░░   49.10 % 
-VS Code                  9 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.20 % 
-Copilot CLI              1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+VS Code                  7 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.85 % 
+Codex Vscode             7 hrs 7 mins        ███████████░░░░░░░░░░░░░░   44.32 % 
+Copilot CLI              1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 
 🐱‍💻 Projects: 
-landingMexSTEMWeek26     16 hrs 12 mins      ██████████████████░░░░░░░   73.37 % 
-portafolio               2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-aimeelinks               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-EmePin                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-cv                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+landingMexSTEMWeek26     10 hrs 27 mins      ████████████████░░░░░░░░░   65.09 % 
+aimeelinks               2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+portafolio               2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+EmePin                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+cv                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Windows                  22 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  16 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 56 mins (81.14%)
+⏱ AI Coding Time: 13 hrs 20 mins (83.08%)
 
-✍️ 2,649 lines written by AI, 259 lines written by hand (91.09% AI-written)
+✍️ 1,212 lines written by AI, 181 lines written by hand (87.01% AI-written)
 
-🔤 2,592,212 Input Tokens, 685,926 Output Tokens
+🔤 1,943,430 Input Tokens, 442,427 Output Tokens
 
-💵 $28.05 Estimated AI Cost This Week
+💵 $27.47 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 473 AI Prompts
+🧠 22 AI Sessions, 357 AI Prompts
 
-GPT                      3,539 lines         ███████████████████████░░   91.12 % 
-Github-Copilot           345 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+GPT                      1,931 lines         █████████████████████░░░░   84.84 % 
+Github-Copilot           345 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.09% of written lines came from AI
-📝 Concise Prompter — average 287 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 8.29% of changed lines were hand-edited
+🤖 AI-Driven — 87.01% of written lines came from AI
+📝 Concise Prompter — average 212 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 11.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -257,7 +257,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 03:28:13 UTC
+ Last Updated on 24/10/2026 15:29:30 UTC
 <!--END_SECTION:waka-readme2-->
 
 <!-- ### 📷 @VisitMexico — Latest 3 Instagram Posts in a week -->
