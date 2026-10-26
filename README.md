@@ -152,15 +152,15 @@ Other             4 hrs 21 mins         ░░░░░░░░░░░░░�
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2050%20mins-blue?style=flat-square)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat-square)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat-square)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.54%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
-> 📦 696.2 kB Used in GitHub's Storage 
+> 📦 697.4 kB Used in GitHub's Storage 
  > 
-> 🏆 345 Contributions in the Year 2026
+> 🏆 346 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -172,8 +172,8 @@ Other             4 hrs 21 mins         ░░░░░░░░░░░░░�
 
 ```text
 🌞 Morning                122 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-🌆 Daytime                2603 commits        ████████░░░░░░░░░░░░░░░░░   32.30 % 
-🌃 Evening                5039 commits        ████████████████░░░░░░░░░   62.52 % 
+🌆 Daytime                2603 commits        ████████░░░░░░░░░░░░░░░░░   32.29 % 
+🌃 Evening                5040 commits        ████████████████░░░░░░░░░   62.52 % 
 🌙 Night                  296 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -184,8 +184,8 @@ Tuesday                  1412 commits        ████░░░░░░░�
 Wednesday                1373 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
 Thursday                 1252 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
 Friday                   1013 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Saturday                 825 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Sunday                   906 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Saturday                 825 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Sunday                   907 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 ```
 
 
@@ -195,49 +195,48 @@ Sunday                   906 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               4 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.63 % 
-CSS                      3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-JavaScript               1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-HTML                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+TypeScript               3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.34 % 
+CSS                      2 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+JavaScript               1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+HTML                     1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 32 mins       █████████████░░░░░░░░░░░░   51.00 % 
-Codex Vscode             4 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.39 % 
-Copilot CLI              1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+VS Code                  5 hrs 20 mins       █████████████░░░░░░░░░░░░   50.16 % 
+Codex Vscode             3 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.04 % 
+Copilot CLI              1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 
 🐱‍💻 Projects: 
-landingMexSTEMWeek26     7 hrs 25 mins       ██████████████░░░░░░░░░░░   57.90 % 
-aimeelinks               2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-portafolio               2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-EmePin                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-cv                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+landingMexSTEMWeek26     5 hrs 29 mins       █████████████░░░░░░░░░░░░   51.56 % 
+aimeelinks               2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+portafolio               2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+EmePin                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 💻 Operating System: 
-Windows                  12 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 34 mins (82.43%)
+⏱ AI Coding Time: 9 hrs 1 min (84.74%)
 
-✍️ 547 lines written by AI, 167 lines written by hand (76.61% AI-written)
+✍️ 448 lines written by AI, 28 lines written by hand (94.12% AI-written)
 
-🔤 1,312,658 Input Tokens, 286,086 Output Tokens
+🔤 1,060,932 Input Tokens, 215,243 Output Tokens
 
-💵 $27.06 Estimated AI Cost This Week
+💵 $26.84 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 261 AI Prompts
+🧠 21 AI Sessions, 208 AI Prompts
 
-GPT                      1,074 lines         ███████████████████░░░░░░   75.69 % 
-Github-Copilot           345 lines           ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+GPT                      871 lines           ██████████████████░░░░░░░   71.63 % 
+Github-Copilot           345 lines           ███████░░░░░░░░░░░░░░░░░░   28.37 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.61% of written lines came from AI
-📝 Concise Prompter — average 178 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 18.71% of changed lines were hand-edited
+🤖 AI-Driven — 94.12% of written lines came from AI
+📝 Concise Prompter — average 180 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 6.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -257,7 +256,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 03:25:41 UTC
+ Last Updated on 26/10/2026 18:21:22 UTC
 <!--END_SECTION:waka-readme2-->
 
 <!-- ### 📷 @VisitMexico — Latest 3 Instagram Posts in a week -->
