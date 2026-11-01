@@ -148,9 +148,9 @@ Other             4 hrs 21 mins         ░░░░░░░░░░░░░�
 </div>
 
 <!--START_SECTION:waka-readme2-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C611%20hrs%206%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C612%20hrs%2032%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2032%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2047%20mins-blue?style=flat-square)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat-square)
 
@@ -195,47 +195,46 @@ Sunday                   906 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Markdown                 29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-HTML                     27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-TypeScript               21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-CSS                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+TypeScript               1 hr 14 mins        ████████████░░░░░░░░░░░░░   49.25 % 
+Markdown                 42 mins             ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+CSS                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████░░░░░░░░   66.22 % 
-Codex Vscode             32 mins             ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Copilot CLI              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Codex Vscode             1 hr 24 mins        ██████████████░░░░░░░░░░░   56.40 % 
+VS Code                  1 hr 5 mins         ███████████░░░░░░░░░░░░░░   43.60 % 
 
 🐱‍💻 Projects: 
-portafolio               40 mins             █████████░░░░░░░░░░░░░░░░   34.81 % 
-landingMexSTEMWeek26     33 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-MXSTEMWeek26             29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-aimeelinks               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Momentum                 1 hr 25 mins        ██████████████░░░░░░░░░░░   56.72 % 
+MXSTEMWeek26             29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+landingMexSTEMWeek26     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+portafolio               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (61.18%)
+⏱ AI Coding Time: 1 hr 56 mins (77.29%)
 
-✍️ 323 lines written by AI, 21 lines written by hand (93.9% AI-written)
+✍️ 1,504 lines written by AI, 19 lines written by hand (98.75% AI-written)
 
-🔤 404,723 Input Tokens, 41,444 Output Tokens
+🔤 564,555 Input Tokens, 133,345 Output Tokens
 
-💵 $0.14 Estimated AI Cost This Week
+💵 $0.30 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 34 AI Prompts
+🧠 5 AI Sessions, 33 AI Prompts
 
-GPT                      329 lines           █████████████████████████   100.00 % 
+GPT                      1,531 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.9% of written lines came from AI
-📝 Concise Prompter — average 360 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 6.82% of changed lines were hand-edited
+🤖 AI-Driven — 98.75% of written lines came from AI
+📝 Concise Prompter — average 385 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -255,7 +254,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmePin/EmePin/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 04:36:04 UTC
+ Last Updated on 01/11/2026 17:43:57 UTC
 <!--END_SECTION:waka-readme2-->
 
 <!-- ### 📷 @VisitMexico — Latest 3 Instagram Posts in a week -->
