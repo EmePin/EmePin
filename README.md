@@ -269,7 +269,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 <p align="center">
 
-Currently, the weather in Mexico City is: **23°C, *mainly clear***
+Currently, the weather in Mexico City is: **16°C, *mainly clear***
 
 Today, the sun rises at **06:48** and sets at **17:56** (UTC-6).
 
@@ -278,8 +278,8 @@ Today, the sun rises at **06:48** and sets at **17:56** (UTC-6).
 <p align="center">
 
   <sub>
-    Last updated: November 22, 2026 at 18:44 (UTC+0) ·
-    November 22, 2026 at 12:44 (UTC-6)
+    Last updated: November 23, 2026 at 04:20 (UTC+0) ·
+    November 22, 2026 at 22:20 (UTC-6)
   </sub>
 
 </p>
